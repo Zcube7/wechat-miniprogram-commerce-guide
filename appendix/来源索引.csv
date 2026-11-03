@@ -1,0 +1,881 @@
+﻿URL,标题,日期,类型,被引用（章-编号）
+https://developers.weixin.qq.com/community/develop/doc/0006e4b61a48788a2a6bb9fef5b800,开放社区关于小程序直播是否收费、能否开通的回复,；https://developers.weixin.qq.com/community/minihome/doc/000e2436ea8bd8c647c02639361800,2020–2025 — 官方社区回复（未直接抓取，据搜索摘要）,09-55
+https://developers.weixin.qq.com/community/develop/doc/00046880140f2842cdee491545b801,关于小程序订单中心页设置的公告（微信开放社区），及站长之家报道,；https://www.chinaz.com/2022/1202/1474781.shtml,2022-12-02 — 官方社区（未直接核验）/ 第三方；仅作背景，正文依据公众平台公告原文 [58],04-50
+https://developers.weixin.qq.com/miniprogram/dev/framework/user-privacy/index.md（另见同目录,用户隐私保护指引填写说明 / 小程序隐私协议开发指南,PrivacyAuthorize.md）,2026-07-28 — 官方文档,08-50
+https://developers.weixin.qq.com/miniprogram/dev/devtools/log.html,微信开发者工具下载地址与更新日志（动态数据）,；数据 https://devtools.wxqcloud.qq.com.cn/WechatWebDev/nightly/versions/config.json（含 history_stable.json、logs/stable_v2.02.2609240.json 等）,2026-10-30 — 官方文档（动态数据）,06-33
+https://zjca.miit.gov.cn/zwgk/tzgg/art/2021/art_2d16253c1e9048dea805e4112bb5e7ce.html,浙江省通信管理局：关于增值电信业务经营许可证相关问题的公告（代办机构网站转载全文；官网原页面,现返回 404）,http://www.zjicpcc.com/?p=6201 — 2021-04-19 — 官方公告（第三方转载，原页面未能打开）,02-54
+https://pay.weixin.qq.com/doc/v3/partner/4012476916,垫付退款回补（平台收付通，/v3/ecommerce/refunds/{refund_id}/return-advance；查询垫付回补结果页,写法相同）,https://pay.weixin.qq.com/docs/partner/apis/ecommerce-refund/refunds/create-return-advance.html — 更新时间 2024-11-04 — 官方文档,04-116
+https://amr.haikou.gov.cn/hdjll/zcfg/202305/t1272512.shtml,最高人民法院关于审理网络消费纠纷案件适用法律若干问题的规定（一）（法释〔2022〕8号；条文另用海口市市场监管局转载页,核对）,https://www.court.gov.cn/zixun/xiangqing/348031.html — 2022-03-01 公布，2022-03-15 施行 — 司法解释,04-83
+https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=100174,国家药监局关于发布《化妆品网络经营监督管理办法》的公告（2023年第36号）（正文据商务部法规库转载,逐条核对）,https://www.gov.cn/zhengce/zhengceku/2023-04/04/content_5750049.htm — 2023-03-31 公告，2023-09-01 施行 — 规范性文件,02-82
+https://yjj.sh.gov.cn/zjyw/20251223/e10112311f7e4f978ddec0f465904d1d.html,国家药监局：《互联网药品医疗器械信息服务备案管理规定》发布（公告2025年第123号；经上海市药监局转载页,核对，规定附件正文未打开）,https://www.nmpa.gov.cn/yaowen/ypjgyw/ylqxyw/20251222182605161.html — 2025-12-22 发布并施行 — 官方公告,02-87
+https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=105436,网络销售重点工业产品质量安全监督管理规定（国家市场监督管理总局令第110号；正文据商务部法规库转载,逐条核对）,https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_ed09580528e343ebb9a294a752ab97d0.html — 2025-12-08 公布，2026-12-01 施行 — 法规,02-104
+https://www.court.gov.cn/zixun/xiangqing/418922.html,最高人民法院发布食品安全惩罚性赔偿典型案例,2023-11-30,司法案例,04-70
+https://www.court.gov.cn/fabu/xiangqing/278191.html,最高人民法院关于审理食品安全民事纠纷案件适用法律若干问题的解释（一）（法释〔2020〕14号）,2020-12-08 公布，2021-01-01 施行,司法解释,04-77
+https://www.court.gov.cn/fabu/xiangqing/440841.html,最高人民法院关于审理食品药品惩罚性赔偿纠纷案件适用法律若干问题的解释（法释〔2024〕9号）,2024-03-18 审委会通过，2024-08-22 施行,司法解释,04-69
+https://www.court.gov.cn/zixun/xiangqing/353651.html,最高人民法院关于适用《中华人民共和国民事诉讼法》的解释,2022-04-10 起施行（第二次修正）,司法解释,04-84
+https://www.court.gov.cn/zixun/xiangqing/459321.html,最高人民法院关于审理预付式消费民事纠纷案件适用法律若干问题的解释（法释〔2025〕4号）及发布会,2025-03-13 公布，2025-05-01 施行,司法解释,03-131
+https://www.tc260.org.cn/tc260/xwdt1/202506/058b8d03f6b84a96886fb5c0ad9024d9.shtml,GB/T 45574-2025《数据安全技术 敏感个人信息处理安全要求》标准全文（全国网络安全标准化技术委员会官网公开 PDF）,2025-04-25 发布，2025-11-01 实施（全文 2025-06-17 公开）,国家标准,02-137
+https://jrj.sh.gov.cn/jcgk-dfxfg/20260105/20546800cebd4360a060ece9c3e28db4.html,上海市单用途预付消费卡管理规定（2025年11月26日修订）,2025-11-26 修订，2026-01-01 施行,地方性法规,03-139
+https://www.beijing.gov.cn/zhengce/dfxfg/202111/t20211130_2549001.html,北京市单用途预付卡管理条例,2021-11-26 通过，2022-06-01 施行,地方性法规,03-137
+https://www.panjin.gov.cn/html/3045/2025-05-15/content-145189.html,兴隆台区市场监督管理局全国12315 ODR平台政策解读（盘锦市人民政府网）,2025-05-15,地方政府解读,04-66
+https://sww.sh.gov.cn/zwgkhsgwj/20260622/ac6d7cbb797249e9a09a7cca1d6b5f3f.html,上海市商务领域单用途预付消费卡管理实施办法（沪商规〔2026〕1号）,2026-06-12 施行（2026-06-22 发布）,地方规范性文件,03-136
+https://zjamr.zj.gov.cn/art/2022/8/30/art_1229565162_2422900.html,浙江省市场监督管理局关于印发《浙江省食品销售进货查验记录和销售记录工作规范》的通知,2022-08-30,地方规范性文件,02-94
+http://www.gov.cn/zhengce/zhengceku/202503/content_7015830.htm,国家卫生健康委 市场监管总局关于发布《食品安全国家标准 预包装食品标签通则》（GB 7718-2025）等50项食品安全国家标准和9项修改单的公告（2025年第2号）,2025-03-16,官方公告,02-92
+https://developers.weixin.qq.com/community/business/doc/000aa40ccf8dc80cb8e92f4f95700d,小程序加急审核--高速直达通道,2020-02-17（2021-02-07 更新）,官方公告,08-72
+https://developers.weixin.qq.com/community/develop/doc/00002a9e18cdc0a04669375a95b001,小程序加急审核流程上线（开放社区公告）,2019-11-01（2022-07-26 更新）,官方公告,08-16
+https://developers.weixin.qq.com/community/develop/doc/00008a8a7d8310b6bf4975b635a401,小程序模板消息能力调整通知,2019（据搜索摘要）,官方公告,07-40
+https://developers.weixin.qq.com/community/develop/doc/00022c683e8a80b29bed2142b56c01,小程序用户头像昵称获取规则调整公告,2022-05-09（据搜索摘要）,官方公告,07-7
+https://developers.weixin.qq.com/community/develop/doc/00024e32cbc36055c0c0a34b066401,URL Scheme 和 URL Link 优化公告,2023-12（据搜索摘要）,官方公告,07-72
+https://developers.weixin.qq.com/community/develop/doc/00042e3ef54940ce8520e38db61801,关于小程序隐私保护指引设置的公告,2023-08（据搜索摘要）,官方公告,07-31
+https://developers.weixin.qq.com/community/develop/doc/00066466a10c08b7ee942b33561801,春节期间微信开放社区官方运营暂停通知,2026-02-03,官方公告,08-64
+https://developers.weixin.qq.com/community/develop/doc/000a02f2c5026891650e7f40351c01,地理位置接口新增与相关流程调整,2022（据搜索摘要）,官方公告,07-96
+https://developers.weixin.qq.com/community/develop/doc/000ae8d6348af08e7030bc2546bc01,统一服务消息接口回收公告,2023（据搜索摘要）,官方公告,07-41
+https://developers.weixin.qq.com/community/develop/doc/000aeab88a4ea0c5c89d81fde5b801,小程序链接生成与使用规则调整公告,2022-03-09（据搜索摘要）,官方公告,07-71
+https://developers.weixin.qq.com/community/develop/doc/000ceebeb3cb085ad0531681961800,"""手机号快速/实时验证组件""额度补扣通知",2025-05-21（动态页面，未能抓取，据搜索收录）,官方公告,07-98
+https://developers.weixin.qq.com/community/develop/doc/000ecc064a03b892620e4910f56001,小程序上线主营类目功能,2022-06-01 发布，2026-07-15 更新,官方公告,02-12
+https://developers.weixin.qq.com/community/develop/doc/000ee86d9a8a401fd88160f0766809,关于小程序收集用户手机号行为的规范（微信开放社区官方帖）,约 2023-08（动态页面，未能抓取，据搜索收录）,官方公告,07-97
+https://developers.weixin.qq.com/community/minihome/doc/00000849f001781d4395bd76061c01,微信开发者工具 2.02.2608040 更新说明,2026-08-18,官方公告,06-34
+https://developers.weixin.qq.com/community/minihome/doc/00022ce7b209f09f363b9c62958401,第三方服务商提审限额机制优化说明,2020-11-04（2022-06-01 更新）,官方公告,08-69
+https://developers.weixin.qq.com/community/minihome/doc/0004a84fcb0bb0e89eddbaa5156401,安全课堂｜关于小程序AppSecret密钥泄露漏洞,2022-04-27（2022-09-09 更新）,官方公告,08-41
+https://developers.weixin.qq.com/community/minihome/doc/000a6e573fc8a05863541ccdc61001,微信小店「获取售后单及纠纷单」接口调整通知,2025-12（据搜索摘要）,官方公告,07-94
+https://developers.weixin.qq.com/community/minihome/doc/000c806ea047f86858e3f88ab66001,关于物流运费险服务下线的通知（微信开放社区·微信物流服务专区公告，署名“微信团队”；含帖下发帖账号 2025-09-15、2025-11-24 回复及 2026-07-15 开发者追问；发帖账号在社区未标注为官方用户）,2025-09-09,官方公告,04-112
+https://hca.miit.gov.cn/zwgk/tzgg/art/2023/art_7d03731f3b784b2b96e4cab7b785e2fa.html,河南省通信管理局：关于增值电信业务经营许可有关问题的公告,2023-03-31,官方公告,02-27
+https://m.thepaper.cn/newsDetail_forward_15340993,杭州互联网法院官方澎湃号普法文章：“双十一”：法官教你如何看跨境零售商品的中文电子标签,2021-11-11,官方公告,02-144
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11608710433BHTsZ,关于小程序内分享行为的进一步规范,2020-12-24,官方公告,09-3
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11669731317o83Qa&version=&lang=zh_CN,关于小程序订单中心页设置的公告,2022-12-01,官方公告,08-22
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=1169158633526IJB&version=&lang=zh_CN,关于开展微信小程序备案的通知（微信团队）,2023-08-09,官方公告,01-21
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11736232024138Pt&version=&lang=zh_CN,春节期间小程序审核调整通知（2025）,2025-01-09,官方公告,08-21
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=117567151189fSNU&version=&lang=zh_CN,关于进一步规范人工智能生成合成内容标识的公告,2025-09-01,官方公告,08-23
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11768188128Av8EV&version=&lang=zh_CN,"关于""电子营业执照核验""系统功能维护的通知",2026-01-12,官方公告,01-22
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11768824663nuEDm&version=&lang=zh_CN,春节期间小程序审核调整通知（2026）,2026-01-20,官方公告,08-20
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11772091560sL6TW&lang=zh_CN,小程序虚拟支付业务管理规范更新公告（公众平台公告页；正文在页面源码的内嵌数据里，已核原句）,2026-02-27（页面上线时间戳）,官方公告,03-77
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id=11772091560sL6TW&version=&lang=zh_CN,小程序虚拟支付业务管理规范更新公告,2026-02-27,官方公告,08-24
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11669731317o83Qa&version=1&lang=zh_CN&platform=1,关于小程序订单中心页设置的公告（微信公众平台）,2022-12-01,官方公告,04-58
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11671435333v04b2&version=1&lang=zh_CN&platform=2,订单发货管理接入指引（公告）,2022-12-20,官方公告,04-10
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11676444126btWNY&version=1&lang=zh_CN&platform=2,小程序交易结算管理确认说明（微信公众平台公告）,2023-02-15,官方公告,03-86; 04-11
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11697785496BpmnU&version=1&lang=zh_CN&platform=2,发货信息管理使用指引（公告）,2023-10-23,官方公告,04-12
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11736404407Ko3H2&version=1&lang=zh_CN&platform=2,实物交易类小程序跳转规范,2025-01-09,官方公告,02-18; 04-13; 05-81; 07-106; 09-100
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11762413408sLJEE&version=1&lang=zh_CN&platform=2,小程序平台报送涉税信息情况说明,2025-11-07,官方公告,02-16; 03-118
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=11772091560sL6TW&version=1&lang=zh_CN&platform=1,小程序虚拟支付业务管理规范更新公告（微信公众平台）,2026-02-27,官方公告,02-47; 04-59
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncementlist&lang=zh_CN,微信公众平台公告列表,2026-11-02 访问,官方公告,01-69; 08-25
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncementlist&lang=zh_CN&f=json,微信公众平台公告列表（JSON 接口，2022-11 至 2026-10 共 26 条）,2026-11-02 访问,官方公告,01-71
+https://mp.weixin.qq.com/s/7rwDVFo6F2jdjvNqh0qhFA,违规案例：刷量行为,2022-03-30,官方公告,09-9
+https://mp.weixin.qq.com/s/LA9VaipVBYAWkPddQqTrAQ,《微信小商店升级为微信小店的公告》意见征集,2024-10-22,官方公告,09-28
+https://mp.weixin.qq.com/s/M4f4WPTCQ95AFbzfYhI4OQ,违规案例：有偿投票行为,2022-03-31,官方公告,09-13
+https://mp.weixin.qq.com/s/_K0TzrT4p9r1COwSosy4sg,违规案例：互推行为,2022-03-31,官方公告,09-8
+https://mp.weixin.qq.com/s/dbej_D2zsJqfbIMkQpgdLg,违规案例：多级分销经营行为,2022-03-31,官方公告,09-5
+https://mp.weixin.qq.com/s/goz6jLvrQJBKecfztDpb0w,案例指引：小程序内广告页面中断用户正常使用体验,2023-12-12,官方公告,09-14
+https://mp.weixin.qq.com/s/hwP3IU5PTYxZZkPcrl3vqQ,违规案例：红包类帐号,2022-03-31,官方公告,09-7
+https://mp.weixin.qq.com/s/maN5xHqmon2lNme7PybpEA,违规案例：滥用分享行为,2022-03-30,官方公告,09-4
+https://mp.weixin.qq.com/s/niTc8UOxKQry5_d9hwN9Vg,违规案例：诱导下载行为,2022-03-31,官方公告,09-12
+https://mp.weixin.qq.com/s/p9PH8H6c7Jb8hO_H_7b15A,违规案例：欺诈行为,2022-03-31,官方公告,09-11
+https://mp.weixin.qq.com/s/roHsW3RqmVtK-WR2Uvr_LA,违规案例：网赚行为,2022-03-31,官方公告,09-10
+https://mp.weixin.qq.com/s/tVISbwqSVuLG1oCHB-xEMA,违规案例：过度营销行为,2022-03-31,官方公告,09-6
+https://scjgj.beijing.gov.cn/zwxx/scjgdt/202311/t20231110_3299283.html,北京市市场监督管理局公布网络交易执法领域典型案例（第十例：今天晚安（北京）规划设计有限公司价格欺诈案）,2023-11-10,官方公告,04-106
+https://scjgj.beijing.gov.cn/zwxx/scjgdt/202606/t20260617_4703643.html,北京市市场监督管理局：网购降价就该退差价？一文讲清价保维权规则与边界,2026-06-17,官方公告,04-109
+https://scjgj.beijing.gov.cn/zwxx/scjgdt/202610/t20261027_4920893.html,北京市市场监督管理局：“双十一”购物提醒：定金订金别混淆，退货边界要明晰,2026-10-27,官方公告,04-97
+https://scjgj.beijing.gov.cn/zwxx/scjgdt/202611/t20261102_4928730.html,北京市市场监督管理局：“双十一”下单前，这三件事别忽略（价保、自动付尾款）,2026-11-02,官方公告,04-110
+https://scjgj.wuhan.gov.cn/ztzl/xxzs/202606/t20260615_2777343.shtml,武汉市市场监督管理局（联合武汉市消费者协会）：“6·18”网络集中促销合规经营与理性消费提示,2026-06-15 发布（落款 2026-06-12）,官方公告,04-105
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/10118/b4735b2f379eafe7/growth_center_rule_for_store/28,关于《微信小店「卖场型店铺」管理规则》新规公示通知,2026-10-30,官方公告,05-18
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/8431/974605087c6df917/growth_center_rule_for_store/5,关于《微信小店结算规则说明-20251114版本》修订公示通知,2025-11-07,官方公告,05-80
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/8882/b91bc43c830683eb/growth_center_platform_notice/8,关于发布《微信小店优选联盟带货机构技术服务费管理规则》《微信小店优选联盟带货者技术服务费管理规则》的公告,2026-01-19,官方公告,05-21
+https://www.cac.gov.cn/2025-03/28/c_1744867353112759.htm,关于开展 2025 年个人信息保护系列专项行动的公告,2025-03-28,官方公告,07-88
+https://www.cac.gov.cn/2025-07/18/c_1754553420421538.htm,关于开展个人信息保护负责人信息报送工作的公告,2025-07-18,官方公告,07-101
+https://www.cac.gov.cn/2025-12/29/c_1768735145606358.htm,关于报送未成年人个人信息保护合规审计情况的公告,2025-12-29,官方公告,07-102
+https://www.cac.gov.cn/2026-01/09/c_1769688003183197.htm,国家网信办：个人信息保护政策法规问答（2026年1月）,2026-01-09,官方公告,02-138
+https://www.xinhuanet.com/politics/20260402/1ee4b2aa0fe64af99a916701e215c59f/c.html,关于开展 2026 年个人信息保护系列专项行动的公告（新华网）,2026-04-02,官方公告,07-89
+https://developers.weixin.qq.com/community/develop/doc/00008e0564435833bf588fbbb56001,小程序关联公众号策略调整（微信开放社区公告，落款微信团队）,2019-04-04,官方公告（开放社区，发帖账号有官方标识）,01-74; 09-23
+https://gdca.miit.gov.cn/bsfw/bszn/jyxk/tzgg/art/2022/art_da255ff756604fd5afe158c2fa96a17f.html,广东省通信管理局：关于电信和互联网相关行政审批有关问题的公告,2022-04-07,官方公告（政府）,01-29; 02-53
+https://gdca.miit.gov.cn/bsfw/bszn/jyxk/tzgg/art/2025/art_6bcbfa4f041247868c0de08e765b33e9.html,广东省通信管理局：关于办理增值电信业务经营许可证的常见问题解答,2025-10-17,官方公告（政府）,01-28; 02-45
+https://scca.miit.gov.cn/bsfw/gsgg/art/2024/art_96d65dca5934436ea2c7c1e58679ab26.html,四川省通信管理局：关于办理增值电信业务经营许可证的常见问题解答清单,2024-11-25,官方公告（政府）,01-30; 02-28
+https://mp.weixin.qq.com/s/WHacxsm0J7D6Jb_Y_stdVA,关于小程序收集用户手机号行为的规范,约 2023-08,官方公告（无法抓取，内容据 [15][16] 核对）,07-14
+https://hnca.miit.gov.cn/zwgk/tzgg/tz/art/2026/art_49f6d75255904a0191c64df8c65856a0.html,海南省通信管理局：关于领取《中华人民共和国增值电信业务经营许可证》的通知（20260811-20260820）,2026-08-25,官方公告（省通信管理局）,02-52
+https://hubca.miit.gov.cn/zwgk/dxhhlwgl/art/2025/art_46268c23ed4f4a5191d9fc2f79dcf231.html,湖北省通信管理局：增值电信业务经营许可证业务办理常见问题解答,2025-11-04,官方公告（省通信管理局）,02-56
+https://lnca.miit.gov.cn/zwgk/tzgg/art/2022/art_5d20ac728f48484094addcc51cb1cfae.html,辽宁省通信管理局：关于增值电信业务经营许可证相关问题的公告,2022-03-14,官方公告（省通信管理局）,02-55
+http://zzzwfw.sd.gov.cn/zz/icity/proinfo/index?id=eb3366c9-47f7-4fd7-8640-758ef84d919b,山东政务服务网（枣庄市市中区）：网络食品交易第三方平台提供者备案、通过自建网站交易的食品生产经营者备案（引用鲁食药监食流〔2017〕1号）,页面未标日期（2026-11 访问）,官方办事指南,02-89
+https://banshi.beijing.gov.cn/pubtask/task/1/110000000000/0a8abe9d-a6b3-4ec8-9b1f-bbbd96055eee.html?locationCode=110000000000&serverType=1002,北京市政务服务网：省级行政区域内增值电信业务经营许可首次申请（实施机构北京市通信管理局）,页面未标更新日期（元数据版本 20260116）,官方办事指南,02-57
+https://banshi.beijing.gov.cn/pubtask/task/1/110105000000/44e5f01d-89c5-4b6d-a1ea-8bb9752d1abf.html?locationCode=110105000000&serverType=1001,北京市朝阳区市场监督管理局：网络食品交易第三方平台提供者和通过自建网站交易的食品生产经营者备案新办（办事指南）,页面未标日期（2026-11 访问）,官方办事指南,02-88
+https://center.lnzwfw.gov.cn/api/web/matter/getContent?id=52125c73-3ca0-41ae-b239-8b70a72f2e19,辽宁政务服务网：增值电信业务经营许可申请审批（实施机构辽宁省通信管理局）,页面未标日期（2026-11 查询）,官方办事指南,02-69
+https://shanghai.chinatax.gov.cn/xxgk/tzgg/202304/t466805.html,国家税务总局上海市税务局关于乐企自用的规范指引（2025版）,2025-02-12,官方指引（省级税务局）,03-97
+https://www.gov.cn/zhengce/zhengceku/202501/content_6998966.htm,国家药监局综合司关于做好有关改革试点经验推广落实工作的通知（药监综法函〔2025〕37号）,2025-01-15,官方文件,02-86
+https://www.mee.gov.cn/zcwj/gwywj/202605/t20260514_1152263.shtml,国务院办公厅关于印发《国务院2026年度立法工作计划》的通知（国办发〔2026〕14号；生态环境部网站转载）,2026-05-08 印发,官方文件,03-140
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/ggjgs/art/2026/art_75bdff5f79d047d287f795c205c78d3b.html,市场监管总局办公厅关于印发《〈中华人民共和国广告法〉适用问题执法指南（一）》的通知,2025-06-19 成文，2025-12-29 公开,官方文件,02-99
+https://ad.weixin.qq.com/docs/100,微信广告：推广目标,2023-07-12,官方文档,09-63
+https://ad.weixin.qq.com/docs/101,微信广告：售卖策略,2023-07-12,官方文档,09-62
+https://ad.weixin.qq.com/docs/293,流量主收入结算,2025-06-24,官方文档,09-60
+https://ad.weixin.qq.com/docs/69,微信广告：广告资质要求,2023-07-12,官方文档,09-64
+https://ad.weixin.qq.com/docs/72,小程序流量主广告管理（广告屏蔽、支付订单详情页广告）,2025-08-05,官方文档,09-59
+https://ad.weixin.qq.com/docs/74,小程序流量主运营规范,2025-09-12,官方文档,09-58
+https://ad.weixin.qq.com/docs/84,微信广告：附近推,2023-07-12,官方文档,09-95
+https://ad.weixin.qq.com/docs/90,微信广告：开通广告账户,2023-07-12,官方文档,09-61
+https://cloud.tencent.com/document/product/1207/73452,腾讯云：轻量应用服务器价格总览,2026-09-24,官方文档,05-46
+https://cloud.tencent.com/document/product/382/36132,腾讯云短信：国内短信价格总览,2026-04-01,官方文档,05-64
+https://cloud.tencent.com/document/product/876/127357,腾讯云：云开发 CloudBase 资源点价格文档,2026-10-26,官方文档,05-45; 06-76
+https://cloud.tencent.com/document/product/876/75213,腾讯云：云开发 CloudBase 价格文档,2026-08-31,官方文档,05-44
+https://cloud.weixin.qq.com/cloudbase/price,云开发价格计算器,日期未知,官方文档,06-75
+https://datanexus.qq.com/doc/develop/intro/inner_app_intro/attribution/attribution_common_self,腾讯广告 DataNexus：自归因上报流程,日期未知,官方文档,09-68
+https://dev.weixin.qq.com/docs/framework/,旧版小程序多端框架文档（停止维护提示）,日期未知,官方文档,06-65
+https://developer.work.weixin.qq.com/document/path/92698,企业微信：创建企业群发,2025-11-17,官方文档,09-44
+https://developer.work.weixin.qq.com/document/path/94739,企业微信：微信小程序打开微信客服,2021-07-16,官方文档,07-50
+https://developers.e.qq.com/docs/guide/ads/miniprogram_link,腾讯广告：微信小程序落地页（Marketing API）,日期未知,官方文档,09-69
+https://developers.e.qq.com/docs/guide/user_actions/convertion_web,腾讯广告：Web/小程序转化数据回传,日期未知,官方文档,09-67
+https://developers.e.qq.com/docs/reference/qualification_v5.1,腾讯广告：资质信息（2024 年 4 月 9 日生效）,2024-04-09,官方文档,09-65
+https://developers.weixin.qq.com/doc/atom.xml,微信开放文档更新（Atom 订阅）,2026-11-02,官方文档,08-63
+https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Launching_a_Mini_Program/Launching_a_Mini_Program.md,移动应用拉起小程序功能介绍,2026-06-25,官方文档,09-43
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/getting_started/how_to_be.html,微信开放平台：成为第三方平台服务商,日期未知,官方文档,05-48
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/getting_started/how_to_be.md,微信开放平台：成为第三方平台服务商（补充说明）,日期未知（2026-11-02 核对）,官方文档,07-105
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/operation/authorization/authorization_management.md,授权相关操作（第三方平台）,2026-06-26,官方文档,08-43
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/Fast_Registration_Interface_document.html,快速注册企业小程序介绍（第三方平台）,页面最后编辑 2026-06-30,官方文档,02-21; 05-50
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/Fast_Registration_Interface_document.md,快速注册企业小程序介绍,2026-06-30,官方文档,01-8
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/Intro.md,代注册小程序介绍,2026-06-30,官方文档,01-38
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/beta_mp_introduction.md,试用小程序介绍,2026-06-30,官方文档,01-37
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/fastregistertransactionweapp.html,个人主体升级版小程序介绍（第三方平台代注册）,2026-06-30,官方文档,03-10
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Register_Mini_Programs/fastregistertransactionweapp.md,个人升级版小程序能力介绍（微信开放平台·第三方平台）,2026-06-30,官方文档,01-72; 02-44
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/Third_party_platform_appid.html,微信开放平台：第三方平台概述,日期未知,官方文档,05-47
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/how_to_dev.html,微信开放平台：代开发小程序,日期未知,官方文档,05-49
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/how_to_dev.md,服务商代开发小程序,2026-06-30,官方文档,08-44
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/illegalEvent.md,服务商代接收小程序违规处罚信息,2026-06-30,官方文档,08-27
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/product/weapp_wxverify.md,代认证小程序介绍（第三方平台）,2026-06-30,官方文档,01-7
+https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/2.0/troubleshooting/submit_quota.md,第三方小程序提审问题,2026-06-30,官方文档,08-70
+https://developers.weixin.qq.com/doc/oplatform/developers/basic_func/member.md,微信开发者平台·成员管理,2026-05-27,官方文档,01-13; 06-47
+https://developers.weixin.qq.com/doc/oplatform/developers/dev/api/,服务端 API 调用说明（AppSecret、API IP 白名单、access_token）,2026-05-27,官方文档,06-106
+https://developers.weixin.qq.com/doc/oplatform/developers/dev/api/index.md,服务端 API 调用说明,2026-05-27,官方文档,08-39
+https://developers.weixin.qq.com/doc/oplatform/developers/product/miniprogram/member.md,小程序/小游戏成员管理（开发者平台）,2026-05-27,官方文档,01-14
+https://developers.weixin.qq.com/doc/oplatform/developers/product/open/bind.md,开放平台绑定应用账号,日期未知,官方文档,07-5
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/ai_config/api_setaiagentconfig.md,设置小程序微信AI接口 setAiAgentConfig,2026-07-20,官方文档,09-86
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/basic-info-management/api_getaccountbasicinfo.md,获取基本信息接口,2026-09-16,官方文档,01-12
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/basic-info-management/api_setnickname.md,设置小程序名称接口,2026-03-16,官方文档,01-11
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/category-management/api_addcategory.html,添加类目（addCategory）接口文档,页面最后编辑 2026-03-16,官方文档,02-14
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/category-management/api_getsettingcategories.html,获取已设置的所有类目（getSettingCategories）,页面最后编辑 2026-03-16,官方文档,02-15
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_grayrelease.md,分阶段发布 grayRelease,2026-09-07,官方文档,08-6
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_revertcoderelease.md,小程序版本回退 revertCodeRelease,2026-03-16,官方文档,08-8
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_revertgrayrelease.md,取消分阶段发布 revertGrayRelease,2026-03-16,官方文档,08-7
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_speedupcodeaudit.md,加急代码审核 speedupCodeAudit,2026-03-16,官方文档,08-14
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_submitaudit.md,提交代码审核 submitAudit,2026-07-04,官方文档,08-12
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_undoaudit.md,撤回代码审核 undoAudit,2026-03-16,官方文档,08-13
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/code-management/api_uploadmediatocodeaudit.md,上传提审素材 uploadMediaToCodeAudit,2026-03-16,官方文档,08-15
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/domain-management/api_getjumpdomainconfirmfile.md,获取业务域名校验文件,2026-07-04,官方文档,06-71
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/domain-management/api_modifyjumpdomain.md,配置小程序业务域名（第三方平台接口）,2026-07-04,官方文档,06-70
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/domain-management/api_modifyserverdomain.md,配置小程序服务器域名（第三方平台接口）,2026-07-04,官方文档,06-69; 08-38
+https://developers.weixin.qq.com/doc/oplatform/openApi/miniprogram-management/weapp-wxverify/api_secwxaapi_wxaauth.md,小程序认证接口 secwxaapi_wxaauth,2026-07-04,官方文档,01-10
+https://developers.weixin.qq.com/doc/oplatform/openApi/register-management/fast-registration-officalaccount/api_registerminiprogrambyoffiaccount.md,复用公众号主体快速注册小程序（接口）,2026-07-04,官方文档,01-9
+https://developers.weixin.qq.com/doc/oplatform/partner/partner_center/provider_guideline/enter_guideline/deposit_guideline.html,微信服务商保证金相关指引,日期未知,官方文档,05-20
+https://developers.weixin.qq.com/doc/service/api/notify/template/api_sendtemplatemessage.md,服务号 发送模板消息,2025-11-26,官方文档,07-42
+https://developers.weixin.qq.com/doc/store/shop/,微信开放文档：微信小店介绍,2025-10-02,官方文档,05-1
+https://developers.weixin.qq.com/doc/store/shop/guide/connect/miniprogram.html,微信小店开发指南：小程序连接小店,2026-06-23,官方文档,05-14
+https://developers.weixin.qq.com/doc/store/shop/linkstore/miniprogram_connection/miniprogram_desc.html,小程序连接微信小店介绍,2025-12-15,官方文档,05-15
+https://developers.weixin.qq.com/doc/store/shop/linkstore/miniprogram_connection/miniprogram_desc.md,小程序连接微信小店介绍,2026-07-04,官方文档,01-36; 09-29
+https://developers.weixin.qq.com/minigame/dev/guide/performance/monitor.md,异常分析与监控（小游戏文档）,2026-04-09,官方文档,08-34
+https://developers.weixin.qq.com/minigame/dev/guide/runtime/debug/realtimelog/index.md,实时日志（小游戏文档）,2026-04-09,官方文档,08-68
+https://developers.weixin.qq.com/minigame/introduction/guide/gzh.md,公众号关联小程序（小游戏接入指南）,2026-04-01,官方文档,01-33; 09-22
+https://developers.weixin.qq.com/miniprogram/analysis/index.md,小程序数据分析,2026-07-08,官方文档,08-30; 09-74
+https://developers.weixin.qq.com/miniprogram/analysis/wedata/data/BehaviorAnalysis1.md,We分析：行为分析（事件、漏斗）,2026-07-08,官方文档,09-73
+https://developers.weixin.qq.com/miniprogram/analysis/wedata/intro/concepts.md,We分析基础概念（场景值体系与更新记录）,2026-06-25,官方文档,09-70
+https://developers.weixin.qq.com/miniprogram/analysis/wedata/intro/index.md,“We分析”数据分析平台,2026-08-24,官方文档,08-31
+https://developers.weixin.qq.com/miniprogram/analysis/wedata/price.md,We 分析计费说明,2026-02-23,官方文档,08-32; 09-72
+https://developers.weixin.qq.com/miniprogram/analysis/wedata/tool/promotion.md,We分析：推广分析,2026-08-24,官方文档,09-71
+https://developers.weixin.qq.com/miniprogram/design/accessibility.md,小程序无障碍设计指南,2026-07-04,官方文档,06-85
+https://developers.weixin.qq.com/miniprogram/design/adapt.md,小程序大屏适配指南,2026-03-01,官方文档,06-88
+https://developers.weixin.qq.com/miniprogram/design/elderly.md,小程序适老化设计指南,2026-07-04,官方文档,06-84
+https://developers.weixin.qq.com/miniprogram/design/index.md,微信小程序设计指南,2026-04-20,官方文档,06-81
+https://developers.weixin.qq.com/miniprogram/dev/ai/changelog.md,小程序 AI 开发模式·更新日志,2026-10-29,官方文档,06-114
+https://developers.weixin.qq.com/miniprogram/dev/ai/guide.md,小程序 AI 开发模式（beta）接入指南,2026-09-09,官方文档,06-112; 09-103
+https://developers.weixin.qq.com/miniprogram/dev/ai/operating-mechanism.md,小程序 AI 开发模式·运行机制,2026-06-07,官方文档,06-113
+https://developers.weixin.qq.com/miniprogram/dev/api/base/system/wx.getSystemInfo.md,wx.getSystemInfo（停止维护提示）,2026-11-02 查询,官方文档,06-119
+https://developers.weixin.qq.com/miniprogram/dev/api/base/update/wx.getUpdateManager.md,wx.getUpdateManager / UpdateManager,日期未知,官方文档,08-11
+https://developers.weixin.qq.com/miniprogram/dev/api/location/wx.chooseLocation.md,wx.chooseLocation,日期未知,官方文档,07-24
+https://developers.weixin.qq.com/miniprogram/dev/api/location/wx.choosePoi.md,wx.choosePoi,日期未知,官方文档,07-25
+https://developers.weixin.qq.com/miniprogram/dev/api/location/wx.getFuzzyLocation.md,wx.getFuzzyLocation,日期未知,官方文档,07-23
+https://developers.weixin.qq.com/miniprogram/dev/api/location/wx.getLocation.md,wx.getLocation,日期未知,官方文档,07-21
+https://developers.weixin.qq.com/miniprogram/dev/api/location/wx.startLocationUpdate.md,wx.startLocationUpdate,日期未知,官方文档,07-26
+https://developers.weixin.qq.com/miniprogram/dev/api/media/image/wx.getImageInfo.md,wx.getImageInfo,2026-11-02 查询,官方文档,06-117
+https://developers.weixin.qq.com/miniprogram/dev/api/navigate/wx.navigateToMiniProgram.md,wx.navigateToMiniProgram,日期未知,官方文档,07-73
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/account-info/wx.getAccountInfoSync.md,wx.getAccountInfoSync,日期未知,官方文档,08-51
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/address/wx.chooseAddress.md,wx.chooseAddress,日期未知,官方文档,07-17
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/invoice/wx.chooseInvoice.md,wx.chooseInvoice,日期未知,官方文档,07-19
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/invoice/wx.chooseInvoiceTitle.md,wx.chooseInvoiceTitle,日期未知,官方文档,07-18
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/login/wx.login.md,wx.login,日期未知,官方文档,07-2
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/my-miniprogram/wx.checkIsAddedToMyMiniProgram.md,wx.checkIsAddedToMyMiniProgram,日期未知,官方文档,09-38
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/service-chat/wx.openCustomerServiceChat.md,wx.openCustomerServiceChat,日期未知,官方文档,07-49
+https://developers.weixin.qq.com/miniprogram/dev/api/open-api/subscribe-message/wx.requestSubscribeMessage.md,wx.requestSubscribeMessage,日期未知,官方文档,07-36; 09-47
+https://developers.weixin.qq.com/miniprogram/dev/api/payment/wx.requestPayment.md,wx.requestPayment 接口文档,日期未知,官方文档,03-2
+https://developers.weixin.qq.com/miniprogram/dev/api/route/wx.navigateTo.md,wx.navigateTo,日期未知,官方文档,06-9
+https://developers.weixin.qq.com/miniprogram/dev/api/storage/wx.setStorage.md,wx.setStorage,日期未知,官方文档,06-103
+https://developers.weixin.qq.com/miniprogram/dev/api/ui/menu/wx.getMenuButtonBoundingClientRect.md,wx.getMenuButtonBoundingClientRect,日期未知,官方文档,06-82
+https://developers.weixin.qq.com/miniprogram/dev/component/button.md,button 组件,日期未知,官方文档,08-36
+https://developers.weixin.qq.com/miniprogram/dev/component/channel-video.md,channel-video 组件（内嵌视频号视频）,日期未知,官方文档,09-97
+https://developers.weixin.qq.com/miniprogram/dev/component/image.md,image 组件,日期未知,官方文档,06-97
+https://developers.weixin.qq.com/miniprogram/dev/component/official-account.md,official-account 公众号关注组件,日期未知,官方文档,09-35
+https://developers.weixin.qq.com/miniprogram/dev/component/store-product.html,store-product 组件,日期未知,官方文档,05-16
+https://developers.weixin.qq.com/miniprogram/dev/component/store-product.md,store-product 组件,日期未知,官方文档,09-30
+https://developers.weixin.qq.com/miniprogram/dev/component/web-view.md,web-view 组件,日期未知,官方文档,06-68; 07-74
+https://developers.weixin.qq.com/miniprogram/dev/devtools/Skills.md,开发者工具 Skills,2026-09-10,官方文档,06-35
+https://developers.weixin.qq.com/miniprogram/dev/devtools/aria.md,无障碍访问模式插件,2026-08-21,官方文档,06-86
+https://developers.weixin.qq.com/miniprogram/dev/devtools/audits.md,体验评分（开发者工具）,2026-08-21,官方文档,06-38
+https://developers.weixin.qq.com/miniprogram/dev/devtools/ci.md,miniprogram-ci,2026-08-21,官方文档,06-41; 08-40
+https://developers.weixin.qq.com/miniprogram/dev/devtools/code_obfuscation.md,小程序代码加固功能介绍,2026-08-27,官方文档,06-45
+https://developers.weixin.qq.com/miniprogram/dev/devtools/codecompile.md,代码编译（压缩代码、代码保护）,2026-08-21,官方文档,06-44
+https://developers.weixin.qq.com/miniprogram/dev/devtools/compilets.md,原生支持 TypeScript（含 Less/Sass 编译插件）,2026-08-21,官方文档,06-43
+https://developers.weixin.qq.com/miniprogram/dev/devtools/debug.md,开发者工具·调试（模拟器与调试器面板）,2026-07-23,官方文档,06-36
+https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.md,开发者工具概览,2026-08-21,官方文档,06-32
+https://developers.weixin.qq.com/miniprogram/dev/devtools/minitest/index.md,MiniTest 小程序云测服务简介,2026-08-21,官方文档,06-48
+https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.md,npm 支持,2026-08-21,官方文档,06-42
+https://developers.weixin.qq.com/miniprogram/dev/devtools/quality.md,代码质量扫描,2026-08-21,官方文档,06-39
+https://developers.weixin.qq.com/miniprogram/dev/devtools/remote-debug-2.md,真机调试 2.0,2026-04-17,官方文档,06-37
+https://developers.weixin.qq.com/miniprogram/dev/framework/MINA.md,框架（逻辑层与视图层）,2026-08-10,官方文档,06-4
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/darkmode.md,DarkMode 适配指南,2026-07-23,官方文档,06-87
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/domain.md,业务域名,2026-07-23,官方文档,06-67
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/lazyload.md,按需注入和用时注入,2026-08-21,官方文档,06-30
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/network.html,微信小程序：网络（服务器域名配置）,日期未知,官方文档,05-67
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/network.md,网络（服务器域名配置）,2026-08-21,官方文档,06-66; 08-37
+https://developers.weixin.qq.com/miniprogram/dev/framework/ability/ohos.md,HarmonyOS 适配指南,2026-09-01,官方文档,06-24
+https://developers.weixin.qq.com/miniprogram/dev/framework/audits/accessibility.md,体验评分·体验规则,2026-07-23,官方文档,06-100
+https://developers.weixin.qq.com/miniprogram/dev/framework/audits/best-practice.md,体验评分·最佳实践规则,2026-07-23,官方文档,06-101
+https://developers.weixin.qq.com/miniprogram/dev/framework/audits/performance.md,体验评分·性能规则,2026-07-23,官方文档,06-99
+https://developers.weixin.qq.com/miniprogram/dev/framework/audits/scoring.md,体验评分·评分方法,2026-07-23,官方文档,06-98
+https://developers.weixin.qq.com/miniprogram/dev/framework/client-lib/index.md,基础库,2026-07-23,官方文档,06-10
+https://developers.weixin.qq.com/miniprogram/dev/framework/compatibility.md,兼容（设置最低基础库版本）,2026-08-21,官方文档,06-12; 08-10
+https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/glass-easel/migration.md,glass-easel 适配指引,2026-10-20,官方文档,06-23
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/channels-activity.md,视频号视频,2026-07-28,官方文档,01-35; 09-25
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/channels-event.md,视频号活动（主体判断逻辑）,2026-07-28,官方文档,01-34
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/channels-live.md,视频号直播（小程序跳转、内嵌、预约）,2026-07-28,官方文档,09-24
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/customer-message/customer-message.md,客服消息,日期未知,官方文档,07-46
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/customer-message/send.md,发送客服消息,2026-06-16,官方文档,07-47
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/getPhoneNumber.html,手机号快速验证组件,日期未知,官方文档,05-62
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/getPhoneNumber.md,手机号快速验证组件,2026-09-03,官方文档,07-10
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/getRealtimePhoneNumber.html,手机号实时验证组件,日期未知,官方文档,05-63
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/getRealtimePhoneNumber.md,手机号实时验证组件,2026-09-03,官方文档,07-11
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/login.md,小程序登录,2026-06-16,官方文档,06-105; 07-1
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/nearby.md,附近的小程序（接口概述）,2026-06-16,官方文档,09-36
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/qr-code.md,获取小程序码,2026-07-23,官方文档,07-64; 09-33
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share-timeline.md,分享到朋友圈,2026-06-16,官方文档,07-62; 09-31
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/share.md,转发,2026-07-23,官方文档,07-61; 09-32
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/shortlink.md,获取 Short Link,2026-10-10,官方文档,09-42
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/subscribe-message-2.md,新版一次性订阅消息开发指南 Beta,2026-07-15,官方文档,07-37; 09-48
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/subscribe-message-overview.md,小程序订阅消息（概览）,2026-06-16,官方文档,07-34; 09-45
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/subscribe-message.md,小程序订阅消息（用户通过弹窗订阅）开发指南,2026-06-16,官方文档,07-35; 09-46
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/template-message.md,模板消息（已于 2020-01-10 下线，含标题审核规则）,2026-08-21,官方文档,09-49
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/union-id.md,UnionID 机制说明,2026-06-16,官方文档,07-4
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/url-link.md,获取加密 URL Link,2026-06-16,官方文档,07-67; 09-40
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/url-scheme.md,获取 URL Scheme,2026-06-16,官方文档,07-66; 09-39
+https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/userProfile.md,头像昵称填写,2026-06-16,官方文档,07-6
+https://developers.weixin.qq.com/miniprogram/dev/framework/operation.md,健康运营指引（用户安全解决方案）,2026-07-23,官方文档,06-108
+https://developers.weixin.qq.com/miniprogram/dev/framework/pc/index.md,PC 小程序接入指南,2026-06-16,官方文档,06-89
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/panel.md,性能面板,2026-07-28,官方文档,06-40
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/perf_data.md,性能数据,2026-08-10,官方文档,06-102
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/runtime_render.md,渲染性能优化,2026-06-16,官方文档,06-94
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/runtime_resource.md,资源加载优化,2026-06-16,官方文档,06-95
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/runtime_setData.md,合理使用 setData,2026-08-21,官方文档,06-93
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/start.md,启动性能,2026-06-16,官方文档,06-90
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/start_optimizeA.md,代码包体积优化,2026-06-16,官方文档,06-31
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/start_optimizeC.md,首屏渲染优化,2026-06-16,官方文档,06-92
+https://developers.weixin.qq.com/miniprogram/dev/framework/performance/tips/start_process.md,小程序启动流程介绍,2026-08-21,官方文档,06-91
+https://developers.weixin.qq.com/miniprogram/dev/framework/plugin/functional-pages/request-payment.md,插件功能页：支付功能页,日期未知,官方文档,03-70
+https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/index.md,小程序简介（小程序与普通网页开发的区别）,2026-08-11,官方文档,06-3
+https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/release.html,微信小程序：发布上线,日期未知,官方文档,05-68
+https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/release.md,小程序协同工作和发布,2026-08-10,官方文档,06-46; 08-3
+https://developers.weixin.qq.com/miniprogram/dev/framework/realtimelog/index.md,实时日志,2026-07-28,官方文档,08-29
+https://developers.weixin.qq.com/miniprogram/dev/framework/release/index.md,基础库更新日志,最新条目 2026-10-21,官方文档,06-13
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/env.md,小程序的运行环境,2026-08-10,官方文档,06-5
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/operating-mechanism.md,小程序运行机制,2026-08-10,官方文档,06-8
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/changelog.md,Skyline 更新日志,2026-10-16,官方文档,06-21
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/comparation.md,Skyline 性能对比,2026-08-21,官方文档,06-17
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/features.md,Skyline 特性,2026-06-16,官方文档,06-16
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/introduction.md,Skyline 渲染引擎·简介,2026-08-21,官方文档,06-14
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/migration/compatibility.md,Skyline 常见兼容问题,2026-08-10,官方文档,06-18
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/migration/index.md,Skyline 从 WebView 迁移·起步（环境准备）,2026-07-28,官方文档,06-15
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/migration/release.md,Skyline 发布上线,2026-06-16,官方文档,06-19
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/skills.md,Skyline Skills,2026-06-16,官方文档,06-22
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/status.md,Skyline 特性状态,2026-06-16,官方文档,06-20
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/skyline/wxss.md,Skyline 渲染引擎·WXSS 样式支持,2026-11-02 查询,官方文档,06-120
+https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/update-mechanism.md,小程序更新机制,2026-08-10,官方文档,08-9
+https://developers.weixin.qq.com/miniprogram/dev/framework/search/seo.md,小程序搜索优化指南,2026-06-16,官方文档,09-15
+https://developers.weixin.qq.com/miniprogram/dev/framework/security.md,安全指引,2026-08-21,官方文档,06-104
+https://developers.weixin.qq.com/miniprogram/dev/framework/structure.md,目录结构,2026-08-10,官方文档,06-6
+https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages.md,分包加载,2026-06-16,官方文档,06-25
+https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages/async.md,分包异步化,2026-06-16,官方文档,06-29
+https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages/basic.md,使用分包,2026-07-28,官方文档,06-26
+https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages/independent.md,独立分包,2026-07-28,官方文档,06-27
+https://developers.weixin.qq.com/miniprogram/dev/framework/subpackages/preload.md,分包预下载,2026-07-28,官方文档,06-28
+https://developers.weixin.qq.com/miniprogram/dev/framework/usability/sourceMap.md,Source Map（小程序文档）,日期未知,官方文档,08-77
+https://developers.weixin.qq.com/miniprogram/dev/framework/user-privacy/PrivacyAuthorize.md,小程序隐私协议开发指南,2026-07-28,官方文档,07-28
+https://developers.weixin.qq.com/miniprogram/dev/framework/user-privacy/index.md,用户隐私保护指引填写说明,日期未知,官方文档,07-29
+https://developers.weixin.qq.com/miniprogram/dev/framework/user-privacy/miniprogram-intro.md,小程序用户隐私保护指引内容介绍,2026-07-28（据第 07 章 [30]）,官方文档,02-139; 07-30
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/guarantee/complaint.html,交易类投诉处理（接口说明）,日期未知,官方文档,04-41
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/ministore/minishopopencomponent2/Introduction2.html,视频号小程序自定义交易组件（适用范围：小商店已下线）,日期未知,官方文档,05-71
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/ministore/minishopopencomponent2/Introduction2.md,视频号小程序自定义交易组件（「小商店」已下线）,2026-07-21,官方文档,09-27
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order-shipping/order-shipping-half.html,小程序确认收货组件接入说明,日期未知,官方文档,04-7
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order-shipping/order-shipping.html,小程序发货信息管理服务（能力指南）,2026-07-21,官方文档,04-2
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order-shipping/order-shipping.md,小程序发货信息管理服务,2026-07-21,官方文档,07-45; 08-78
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order_center/order_center.html,小程序购物订单（订单管理）,页面 2026-07-21；文档变更 2026-05-26,官方文档,04-40
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/virtual-payment.html,虚拟支付：企业、个体户,页面最后编辑 2026-09-14,官方文档,02-20
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/virtual-payment.md,虚拟支付：企业、个体户,日期未知,官方文档,03-71
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/virtual-payment/devplan.md,虚拟支付 技术服务费,日期未知,官方文档,03-72
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/virtual-payment/person.md,虚拟支付：个人（开通条件与限额）,日期未知（2026-11-02 核对）,官方文档,02-46; 03-73
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/charge/README.md,付费管理（购买操作指引）,日期未知,官方文档,07-12
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/extended/component-plus/recycle-view.md,recycle-view 长列表组件,2026-07-04,官方文档,06-96
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/channels/components.md,视频号挂载小程序组件能力,2026-10-29,官方文档,09-26
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/express_open_msg.md,物流消息,2026-03-25,官方文档,07-54
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/express_search.md,物流查询组件,2026-07-17,官方文档,07-53
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/freight_insurance.html,无忧退货（运费险）简介（微信物流服务·商家查看；正文未提下线）,页面最后编辑 2026-08-21,官方文档,04-113
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/intracity_service.html,同城配送简介,日期未知（2026-11-02 抓取返回 404，内容据搜索摘要）,官方文档,07-56
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/introduction.md,微信物流服务-快递接口,2026-08-21,官方文档,07-52
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/express/business/qa.html,微信物流服务：物流助手常见问题,日期未知,官方文档,05-65
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/guarantee/comment-order.md,交易信息回传接口,2026-07-16,官方文档,09-50
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/liveplayer/live-player-plugin.md,小程序直播-接入说明 / 版本更新日志,2026-08-21（更新日志页 2026-07-16）,官方文档,09-54
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/industry/liveplayer/update-log.md,小程序直播组件更新日志,日期未知,官方文档,09-96
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/miniapp/api/diffapi/adapt_api.md,多端应用·API 适配说明（wx.requestPayment）,2026-07-17,官方文档,06-64
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/miniapp/api/miniapp/requestPayment.md,wx.miniapp.requestPayment（多端应用 App 调起微信支付）,2026-11-02 查询,官方文档,06-118
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/miniapp/handbook/build/build-apk.md,多端应用·打包生成 APK（构建次数）,2026-07-14,官方文档,06-63
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/miniapp/handbook/web/pro.md,多端应用·升级至专业版,2026-09-20,官方文档,06-62
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/miniapp/index.md,小程序多端框架概述（多端应用 / Donut）,2026-09-20,官方文档,06-61
+https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.md,Page（页面构造器与生命周期）,日期未知,官方文档,06-7; 07-63
+https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.md,全局配置 app.json,2026-10-12,官方文档,06-83; 07-22; 09-16
+https://developers.weixin.qq.com/miniprogram/dev/reference/scene-list.md,场景值列表,2026-08-26,官方文档,09-37
+https://developers.weixin.qq.com/miniprogram/dev/server/API/express/express-by-business/,物流助手（小程序使用）接口列表,2025-12-21（据搜索摘要）,官方文档,07-55
+https://developers.weixin.qq.com/miniprogram/dev/server/API/mp-message-management/subscribe-message/api_addwxanewtemplate.md,选用模板（subscribeMessage.addTemplate）,"日期未知（页面写 kidList""最多支持5个，最少2个关键词组合""、sceneDesc""15个字以内""）",官方文档,07-39
+https://developers.weixin.qq.com/miniprogram/dev/server/API/mp-message-management/subscribe-message/api_sendmessage.md,发送订阅消息（send）,日期未知,官方文档,07-38
+https://developers.weixin.qq.com/miniprogram/dev/server/API/operation/api_getjserrlist.md,运维中心·查询错误列表 getJsErrList,2026-03-16,官方文档,08-35
+https://developers.weixin.qq.com/miniprogram/dev/server/API/order_shipping/api_notifyconfirmreceive.html,确认收货提醒接口 notifyConfirmReceive,日期未知,官方文档,04-6
+https://developers.weixin.qq.com/miniprogram/dev/server/API/order_shipping/api_opspecialorder.html,特殊发货报备接口 opspecialorder,日期未知,官方文档,04-5
+https://developers.weixin.qq.com/miniprogram/dev/server/API/order_shipping/api_setwxatradetypecgi.html,小程序交易类型变更申请接口,日期未知,官方文档,04-8
+https://developers.weixin.qq.com/miniprogram/dev/server/API/order_shipping/api_uploadcombinedshippinginfo.html,发货信息合单录入接口 uploadCombinedShippingInfo,日期未知,官方文档,04-4
+https://developers.weixin.qq.com/miniprogram/dev/server/API/order_shipping/api_uploadshippinginfo.html,发货信息录入接口 uploadShippingInfo,接口变更日志 2026-05-09,官方文档,04-3
+https://developers.weixin.qq.com/miniprogram/dev/server/API/qrcode-link/qr-code/api_getunlimitedqrcode.md,获取不限制的小程序码 getUnlimitedQRCode,2026-07-04,官方文档,07-65; 09-34
+https://developers.weixin.qq.com/miniprogram/dev/server/API/qrcode-link/short-link/api_generateshortlink.md,generateShortLink,2026-02-03（接口变更日志）,官方文档,07-70
+https://developers.weixin.qq.com/miniprogram/dev/server/API/qrcode-link/url-link/api_generateurllink.md,generateUrlLink,日期未知,官方文档,07-69; 09-99
+https://developers.weixin.qq.com/miniprogram/dev/server/API/qrcode-link/url-scheme/api_generatescheme.md,generateScheme,2026-07-13,官方文档,07-68; 09-41
+https://developers.weixin.qq.com/miniprogram/dev/server/API/sec-center/safety-control-capability/api_getuserriskrank.md,获取用户安全等级 getUserRiskRank,2026-07-13,官方文档,06-109
+https://developers.weixin.qq.com/miniprogram/dev/server/API/sec-center/sec-check/api_mediacheckasync.md,多媒体内容安全识别 mediaCheckAsync,2026-10-29,官方文档,06-111; 07-59
+https://developers.weixin.qq.com/miniprogram/dev/server/API/sec-center/sec-check/api_msgseccheck.md,文本内容安全识别 msgSecCheck,2026-10-29,官方文档,06-110; 07-58
+https://developers.weixin.qq.com/miniprogram/dev/server/API/user-info/phone-number/api_getphonenumber.md,获取手机号（服务端 getuserphonenumber）,日期未知,官方文档,07-13
+https://developers.weixin.qq.com/miniprogram/dev/server/API/user-login/api_code2session.md,小程序登录 code2Session,日期未知,官方文档,07-3
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/express-return/api_addreturnid.html,创建退货ID（addReturnId，/cgi-bin/express/delivery/no_worry_return/add）,页面最后编辑 2026-03-25,官方文档,04-114
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/express-return/api_getreturnid.html,查询退货ID状态（getReturnId）,页面最后编辑 2026-03-25,官方文档,04-127
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/express-return/api_unbindreturnid.html,解绑退货ID（unbindReturnId）,页面最后编辑 2026-03-25,官方文档,04-128
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/freight/api_insurance_freight_claim.html,无忧退理赔（insurance_freight_claim）,页面最后编辑 2026-03-25,官方文档,04-124
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/freight/api_insurance_freight_createorder.html,发货时投保（insurance_freight_createorder）,页面最后编辑 2026-03-25,官方文档,04-122
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/freight/api_insurance_freight_getsummary.html,拉取理赔摘要（insurance_freight_getsummary）,页面最后编辑 2026-03-25,官方文档,04-123
+https://developers.weixin.qq.com/miniprogram/dev/server/API/weixin-express/same_city_distribution/api_intracity_getcity.md,查询支持同城配送的城市,日期未知,官方文档,07-57
+https://developers.weixin.qq.com/miniprogram/dev/server/event_push/express/business/claim_settlement_result.html,理赔结果推送（wxainsurance_claim_result 事件）,页面最后编辑 2026-03-25,官方文档,04-125
+https://developers.weixin.qq.com/miniprogram/dev/server/event_push/platform/authorized_user_information_changes.md,授权用户信息变更（事件推送）,日期未知,官方文档,07-33
+https://developers.weixin.qq.com/miniprogram/dev/server/getting_started/api_signature.md,服务端 API 签名加密指南,2026-09-10,官方文档,06-107
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloud/basis/getting-started.md,微信云开发·介绍,2026-08-26,官方文档,06-72
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloud/billing/Billing_Instructions.md,云开发资源点计费说明,2026-10-26,官方文档,06-73
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloud/billing/expiration-rule.md,云开发·资源超限和到期停服规则,2026-11-02 查询,官方文档,06-121
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloud/billing/price.md,云开发计费说明（固定配额套餐）,2026-10-23,官方文档,06-74
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloud/reference-sdk-api/extend/ai/client.md,wx.cloud.extend.AI,2026-10-30,官方文档,06-115
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloudrun/src/Billing/index.md,微信云托管·产品计费,2026-08-24,官方文档,05-83; 06-78
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloudrun/src/Billing/overdue.md,微信云托管·欠费说明,2026-08-24,官方文档,06-80
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloudrun/src/Billing/price.html,微信云托管：产品定价,日期未知,官方文档,05-43
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloudrun/src/Billing/price.md,微信云托管·产品定价,2026-08-24,官方文档,06-79
+https://developers.weixin.qq.com/miniprogram/dev/wxcloudservice/wxcloudrun/src/basic/intro.md,微信云托管是什么,2026-07-28,官方文档,06-77
+https://developers.weixin.qq.com/miniprogram/introduction/,微信小程序：小程序介绍（注册与微信认证）,日期未知,官方文档,05-54
+https://developers.weixin.qq.com/miniprogram/introduction/custom.md,客服消息使用指南,日期未知,官方文档,07-48
+https://developers.weixin.qq.com/miniprogram/introduction/index.md,小程序产品定位及功能介绍（接入指南）,2026-07-28,官方文档,01-3; 08-4; 09-21
+https://developers.weixin.qq.com/miniprogram/introduction/widget/we-search/,微信搜索接入概述（品牌/商品/服务搜索）,2026-07-07,官方文档,09-17
+https://developers.weixin.qq.com/miniprogram/introduction/widget/we-search/SERVICE.html,服务信息要求（服务搜索）,2026-07-07,官方文档,09-18
+https://developers.weixin.qq.com/miniprogram/introduction/widget/we-search/WXAPAGES.html,内容接入（准入类目）,2026-02-11,官方文档,09-19
+https://developers.weixin.qq.com/miniprogram/product/,微信小程序平台运营规范,页面显示最后编辑 2026-10-30,官方文档,02-2; 04-42
+https://developers.weixin.qq.com/miniprogram/product/index.html,微信小程序平台运营规范,2026-10-30,官方文档,05-70
+https://developers.weixin.qq.com/miniprogram/product/index.md,微信小程序平台运营规范,2026-10-30,官方文档,01-1; 03-1; 06-1; 07-8; 08-2; 09-1
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/bangzhengjin95.html,小程序交易保证金管理规定,附件1 2025-11-06 更新,官方文档,02-7; 04-16
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/baozhangbiao961.html,小程序交易保障标产品说明（6.1）,页面 2026-11-02,官方文档,04-38
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/biaomianbuyizhi9334.html,表面不一致商品处理细则,正文 2025-11-30；页面 2026-01-28,官方文档,04-24
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fahuoguanligongneng.html,订单发货管理功能介绍及接入计划,页面最后编辑 2026-10-29,官方文档,04-9
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fahuoguanligongneng.md,订单发货管理功能介绍及接入计划,日期未知,官方文档,03-84
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fushixize9344.html,服装配饰类交易纠纷处理细则,正文 2025-11-30；页面 2026-10-29,官方文档,04-29
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fuwuweigui93.html,微信小程序交易服务违规管理规则,2023-11-15 公示生效,官方文档,02-9; 04-14
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fuwuzhiliang9335.html,服务质量问题处理细则,正文 2025-11-30,官方文档,04-25
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/hejiechuliguize9351.html,交易投诉和解期处理规则（3.5）,页面 2026-01-28,官方文档,04-19
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/jiamaoweilie9333.html,微信小程序：假冒伪劣商品处理细则（举证指引·三无产品）,2025-11-30（据第 04 章 [23]）,官方文档,02-143; 04-23
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/jinshoushangpin.html,微信小程序禁发商品列表,页面最后编辑 2026-10-29,官方文档,02-4; 04-37
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/manghexize9342.html,盲盒类交易纠纷处理细则,正文 2025-11-30,官方文档,04-34
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/meizhuangxize9347.html,微信小程序：美妆护肤类交易纠纷处理细则,2025-11-30 公示生效,官方文档,02-142; 04-32
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/pingtaijieruguize9352.html,平台介入纠纷处理规则（3.5）,正文 2025-11-30；页面 2026-01-28,官方文档,04-20
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/qijianbiao962.html,官方旗舰标产品说明（6.2）,页面 2026-07-21,官方文档,04-39
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/qitianwuliyou9331.html,微信小程序：七天无理由退换货场景处理细则,2025-11-30 公示生效,官方文档,02-140; 04-22
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shangjiazhiyin932.html,小程序交易投诉开发者处理流程指引（3.2）,页面 2026-11-02,官方文档,04-18
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shangjiazhiyin932.md,小程序交易投诉开发者处理流程指引,2026-11-02,官方文档,08-67
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shensuguize9353.html,申诉规则与处理标准（3.5）,正文 2025-11-30；页面 2026-10-29,官方文档,04-21
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shensuguize9353.md,申诉规则与处理标准,2026-10-29,官方文档,08-54
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shipinyinliaoxize9345.html,食品饮料类交易纠纷处理细则,正文 2025-11-30；页面 2026-10-29,官方文档,04-31
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shoufeizhengyi9336.html,收费争议处理细则,正文 2025-11-30,官方文档,04-26
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shoufeizhengyi9336.md,收费争议处理细则,2026-01-28,官方文档,09-83
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/shumaxize9349.html,数码产品类交易纠纷处理细则,正文 2025-11-30,官方文档,04-30
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/specific_industries.html,小程序特定行业管理规范,2022-11-29 公示生效，页面最后编辑 2026-10-30,官方文档,02-5; 04-36
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/specific_industries.md,小程序特定行业管理规范（预售/预付卡、盲盒）,2022-11-29 公示生效，页面最后编辑 2026-10-30（据第 2 章）,官方文档,03-124
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/weiyuejintiyanfen94.html,小程序违约金&体验分管理规定（4. 违约金&交易体验分管理规范）,正文 2025-11-30 公示生效；页面 2026-11-02,官方文档,04-15
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/weiyuejintiyanfen94.md,小程序违约金&体验分管理规定,2026-11-02,官方文档,08-53
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/xunifuwuxize9341.html,虚拟服务交易纠纷处理细则,正文 2025-11-30,官方文档,04-28
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/yajintuihuan9337.html,余额/押金退还问题处理细则,正文 2025-11-30,官方文档,04-27
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/yiliaoxize9348.html,医药保健类交易纠纷处理细则,正文 2025-11-30,官方文档,04-33
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/yonghuzhiyin931.html,小程序交易投诉流程指引（3.1 用户发起投诉）,页面 2026-11-02,官方文档,04-17; 07-51
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/yunyingguifan.html,交易类小程序运营规范,2022-12-25 生效，页面最后编辑 2026-11-02,官方文档,02-3; 04-1
+https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/yunyingguifan.md,交易类小程序运营规范,2022-12-25 生效（未见更新日期）,官方文档,03-39; 08-52
+https://developers.weixin.qq.com/miniprogram/product/live/access-requirement.md,微信小程序直播功能准入要求,2026-10-30（准入要求 2020-02-24 公示）,官方文档,01-32; 09-51
+https://developers.weixin.qq.com/miniprogram/product/live/behavior-standard.md,主播行为规范,2026-10-30,官方文档,09-52
+https://developers.weixin.qq.com/miniprogram/product/material/,小程序开放的服务类目,页面显示最后编辑 2026-11-02,官方文档,02-1; 04-141; 05-51
+https://developers.weixin.qq.com/miniprogram/product/material/README.md,小程序开放的服务类目,2026-11-02,官方文档,01-5; 09-102
+https://developers.weixin.qq.com/miniprogram/product/material/dianshang/dianshangpingtai.html,微信小程序：电商平台-电商平台 法规及资质示例参考,页面未标日期（2026-11-02 查询；内容只有一张 EDI 证样图）,官方文档,02-64
+https://developers.weixin.qq.com/miniprogram/product/material/index.md,小程序开放的服务类目,2026-11-02,官方文档,08-55
+https://developers.weixin.qq.com/miniprogram/product/material/shangjiaziying/baojianpin.html,商家自营-保健品 法规及资质示例参考,页面最后编辑 2026-01-25,官方文档,02-41
+https://developers.weixin.qq.com/miniprogram/product/material/shangjiaziying/shipin.html,商家自营-食品饮料 法规及资质示例参考,页面最后编辑 2026-01-25,官方文档,02-42
+https://developers.weixin.qq.com/miniprogram/product/material/shangjiaziying/yufukafashou.md,服务类目 法规依据及示例：商家自营-预付卡,日期未知,官方文档,03-135
+https://developers.weixin.qq.com/miniprogram/product/record/,微信小程序：小程序备案,2026-08-18,官方文档,05-55
+https://developers.weixin.qq.com/miniprogram/product/record/receord_category.md,小程序备案服务内容选择指引,2026-03-25,官方文档,01-20
+https://developers.weixin.qq.com/miniprogram/product/record/record_faq.html,微信小程序：备案常见问答,日期未知,官方文档,05-56
+https://developers.weixin.qq.com/miniprogram/product/record/record_faq.md,小程序备案常见问答,2026-09-11,官方文档,01-19; 08-49
+https://developers.weixin.qq.com/miniprogram/product/record/record_guidelines.md,小程序备案操作指引,2026-08-18,官方文档,01-15; 08-48
+https://developers.weixin.qq.com/miniprogram/product/record/record_material.md,小程序备案材料示例,2026-10-26,官方文档,01-16
+https://developers.weixin.qq.com/miniprogram/product/record/record_pre_approval.md,前置审批类别及审批部门,2026-03-25,官方文档,01-17
+https://developers.weixin.qq.com/miniprogram/product/record/sms_verification.md,工信部短信核验常见问答,2026-03-25,官方文档,01-18
+https://developers.weixin.qq.com/miniprogram/product/reject.html,微信小程序平台常见拒绝情形,页面最后编辑 2026-03-25,官方文档,02-6; 04-43; 05-69
+https://developers.weixin.qq.com/miniprogram/product/reject.md,微信小程序平台常见拒绝情形,2026-03-25,官方文档,01-6; 06-2; 07-9; 08-1; 09-2
+https://developers.weixin.qq.com/miniprogram/product/renzheng.md,微信小程序认证指引,页面显示 2026-03-25,官方文档,01-2
+https://developers.weixin.qq.com/miniprogram/product/service.md,微信小程序平台服务条款,2026-09-20,官方文档,01-4; 08-73
+https://developers.weixin.qq.com/miniprogram/product/service/live.md,微信小程序直播功能服务条款,2026-09-29,官方文档,09-53
+https://developers.weixin.qq.com/miniprogram/product/transaction.html,微信小程序实物交易争议处理规则,2019-11-13 生效，页面最后编辑 2026-09-29,官方文档,02-8; 04-35
+https://e.qq.com/contract.html,腾讯广告-广告主合作协议,日期未知,官方文档,09-66
+https://gzca.miit.gov.cn/bsfw/bszn/art/2019/art_c4e737c7e78a4d1e84e9d0ca0f6a0523.html,贵州省通信管理局：《电信业务分类目录（2015年版）》常见问题解答,2019-07-17,官方文档,02-26
+https://kf.qq.com/faq/140225MveaUz150107JR7bEN.html,交易退款常见问题（腾讯客服）,日期未知,官方文档,03-44
+https://kf.qq.com/faq/140225MveaUz150123raQRNN.html,微信支付商户不支持的经营场景,日期未知,官方文档,03-14
+https://kf.qq.com/faq/140225MveaUz1504092YFjeM.html,结算规则、费率（收款资金结算规则说明）,日期未知,官方文档,03-13
+https://kf.qq.com/faq/161220iqeAfA1612202yeURB.html,合作伙伴（服务商）接入方法,日期未知,官方文档,03-17
+https://kf.qq.com/faq/1612237veE7J161223bUzeUz.html,腾讯客服：微信支付商户自助清关常见问题,页面未标日期（引用海关总署公告2014年第56号，内容较旧）,官方文档,02-124
+https://kf.qq.com/faq/161223NJBr2u161223Mfeqei.html,微信支付商户提现功能介绍,日期未知,官方文档,03-40
+https://kf.qq.com/faq/170602BRfiM3170602iEJNFJ.html,小程序换绑管理员流程（腾讯客服）,日期未知,官方文档,08-42
+https://kf.qq.com/faq/170606N3YZ36170606IbUvui.html,如何申请手续费发票,日期未知,官方文档,03-45
+https://kf.qq.com/faq/17121536zYje171215yQVnI7.html,小程序侵权申诉（腾讯客服）,日期未知,官方文档,08-28
+https://kf.qq.com/faq/181226yieaEv181226r6nuMr.html,小程序注销流程指引（腾讯客服）,日期未知,官方文档,08-46
+https://kf.qq.com/faq/190605A3QrUR190605maANZj.html,小程序账号被系统冻结问题汇总（腾讯客服）,日期未知,官方文档,08-45
+https://kf.qq.com/faq/211202QrYrAj211202uAFVZJ.html,微信支付消费者投诉处理规范,日期未知（2026-11-02 访问）,官方文档,03-37; 04-88
+https://kf.qq.com/faq/220228IJb2UV220228uEjU3Q.html,入驻结算规则、行业属性及特殊资质,2026-06-12,官方文档,03-11
+https://kf.qq.com/faq/220228qEfuAz220228bMFji6.html,入驻结算规则、行业属性及特殊资质（平台收付通二级商户）,2026-07-20,官方文档,03-12
+https://kf.qq.com/touch/sappfaq/2005053AZfYZ200505maqMjE.html,付款功能开通条件及无法开通原因排查（腾讯客服）,日期未知,官方文档,03-64
+https://kf.qq.com/touch/wxappfaq/1708293Yzyme170829R3uUfE.html,小程序分阶段发布功能介绍（腾讯客服）,日期未知,官方文档,08-5
+https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&key=1503979103&version=1&lang=zh_CN&platform=2,微信公众平台服务协议,页面上线 2017-10-09（现行版本日期未知）,官方文档,08-47
+https://pay.weixin.qq.com/doc/global/v2/zh/4013645778,微信支付跨境开发者中心·支付常见问题（境外商户号默认权限）,2025-02-21 更新,官方文档,02-128
+https://pay.weixin.qq.com/doc/global/v3/zh/4012354203,微信支付跨境开发者中心·跨境分账产品介绍,2025-03-24 更新,官方文档,02-129
+https://pay.weixin.qq.com/doc/global/v3/zh/4012354238,微信支付跨境开发者中心·自助清关产品介绍（产品能力）,2025-03-24 更新,官方文档,02-123
+https://pay.weixin.qq.com/doc/global/v3/zh/4012355076,微信支付跨境开发者中心·海关报关常见问题,2025-03-25 更新,官方文档,02-125
+https://pay.weixin.qq.com/doc/global/v3/zh/4013025128,微信支付跨境开发者中心·身份信息校验 API（V3，apihk 域名）,2025-01-07 更新,官方文档,02-126
+https://pay.weixin.qq.com/doc/v2/merchant/4011985104,微信支付商户文档中心·清关报关·开通指引（V2）,2025-03-21 更新,官方文档,02-118
+https://pay.weixin.qq.com/doc/v2/merchant/4011985151,微信支付商户文档中心·订单附加信息提交接口（V2，清关报关）,2024-11-14 更新,官方文档,02-119
+https://pay.weixin.qq.com/doc/v2/merchant/4011987792,微信支付商户文档中心·实名授权（小程序）（V2）,2026-08-13 更新,官方文档,02-149
+https://pay.weixin.qq.com/doc/v2/partner/4014115425,微信支付：费率结算规则对照表,2025-04-07,官方文档,05-57
+https://pay.weixin.qq.com/doc/v3/institution/4019800055,常见问题答疑_小程序资金管控-从业机构（微信支付合作伙伴文档中心）,更新时间 2026-05-25,官方文档,04-44
+https://pay.weixin.qq.com/doc/v3/merchant/4012061761,商家券 产品介绍,2025-11-18,官方文档,03-68
+https://pay.weixin.qq.com/doc/v3/merchant/4012064295,支付有礼 产品介绍,2025-11-11,官方文档,03-69
+https://pay.weixin.qq.com/doc/v3/merchant/4012064617,微信支付：小程序发券插件产品介绍,2025-03-21,官方文档,09-84
+https://pay.weixin.qq.com/doc/v3/merchant/4012067962,分账 产品介绍（普通商户）,2025-05-13,官方文档,03-27
+https://pay.weixin.qq.com/doc/v3/merchant/4012068443,接入模式_通用规则,2026-06-01,官方文档,03-16
+https://pay.weixin.qq.com/doc/v3/merchant/4012075249,支付回调和查单实现指引,2024-12-18,官方文档,03-52
+https://pay.weixin.qq.com/doc/v3/merchant/4012077589,小程序合单支付 产品介绍,2025-08-06,官方文档,03-32
+https://pay.weixin.qq.com/doc/v3/merchant/4012084079,代金券 产品介绍,2025-10-14,官方文档,03-67
+https://pay.weixin.qq.com/doc/v3/merchant/4012154180,如何从平台证书切换成微信支付公钥,2024-12-12,官方文档,03-59
+https://pay.weixin.qq.com/doc/v3/merchant/4012587539,交易投诉运营规范（微信支付商户文档中心）,更新时间 2024-09-23,官方文档,04-45
+https://pay.weixin.qq.com/doc/v3/merchant/4012711988,商家转账 产品介绍,2026-08-07,官方文档,03-62
+https://pay.weixin.qq.com/doc/v3/merchant/4012791894,小程序支付 产品介绍（普通商户）,2025-07-15,官方文档,03-3; 07-43
+https://pay.weixin.qq.com/doc/v3/merchant/4012791895,申请 JSAPI 支付权限（小程序支付场景）,2025-07-02,官方文档,03-5
+https://pay.weixin.qq.com/doc/v3/merchant/4012791897,JSAPI/小程序下单（普通商户）,2025-03-31,官方文档,03-49
+https://pay.weixin.qq.com/doc/v3/merchant/4012791898,小程序调起支付,2025-02-26,官方文档,03-50
+https://pay.weixin.qq.com/doc/v3/merchant/4012791901,关闭订单,2024-12-11,官方文档,03-53
+https://pay.weixin.qq.com/doc/v3/merchant/4012791902,支付成功回调通知,2024-12-27,官方文档,03-51
+https://pay.weixin.qq.com/doc/v3/merchant/4012791903,申请退款（小程序支付）,2025-01-09,官方文档,03-41
+https://pay.weixin.qq.com/doc/v3/merchant/4012791904,查询单笔退款（通过商户退款单号）（小程序支付）,2025-01-09,官方文档,03-80
+https://pay.weixin.qq.com/doc/v3/merchant/4012791907,下载交易账单,2025-01-10,官方文档,03-54
+https://pay.weixin.qq.com/doc/v3/merchant/4012791910,小程序支付 常见问题,2026-08-05,官方文档,03-56
+https://pay.weixin.qq.com/doc/v3/merchant/4012791911,小程序支付 开发指引,2026-06-09,官方文档,03-48
+https://pay.weixin.qq.com/doc/v3/merchant/4013038816,微信支付公钥 常见问题,2025-03-04,官方文档,03-61
+https://pay.weixin.qq.com/doc/v3/merchant/4013070379,发起异常退款（普通商户，/v3/refund/domestic/refunds/{refund_id}/apply-abnormal-refund）,更新时间 2024-12-30,官方文档,04-136
+https://pay.weixin.qq.com/doc/v3/merchant/4013070756,开发必要参数说明,2026-10-13,官方文档,03-57
+https://pay.weixin.qq.com/doc/v3/merchant/4013071001,订单退款 产品介绍,2025-06-27,官方文档,03-42; 07-44
+https://pay.weixin.qq.com/doc/v3/merchant/4013071200,订单退款 常见问题,2026-08-05,官方文档,03-43
+https://pay.weixin.qq.com/doc/v3/merchant/4013287504,管理商户号绑定的 APPID 账号,2025-07-02,官方文档,03-7
+https://pay.weixin.qq.com/doc/v3/merchant/4013420906,合单支付 常见问题,2026-05-20,官方文档,03-33
+https://pay.weixin.qq.com/doc/v3/merchant/4013740645,开发接入准备（商家转账）,2026-06-01,官方文档,03-82
+https://pay.weixin.qq.com/doc/v3/merchant/4014547102,分账 常见问题（普通商户）,2026-08-05,官方文档,03-29
+https://pay.weixin.qq.com/doc/v3/merchant/4015273741,商家转账到零钱升级说明,2026-08-12,官方文档,03-63
+https://pay.weixin.qq.com/doc/v3/merchant/4015419357,如何从微信支付公钥切换成平台证书,2026-03-17,官方文档,03-60
+https://pay.weixin.qq.com/doc/v3/merchant/4015459054,各主体权限对照说明,2025-07-02,官方文档,03-9
+https://pay.weixin.qq.com/doc/v3/merchant/4015459512,小程序支付 开发接入准备,2026-10-16,官方文档,03-4
+https://pay.weixin.qq.com/doc/v3/merchant/4015765029,开发接入准备（小程序合单支付）,2026-10-19,官方文档,03-81
+https://pay.weixin.qq.com/doc/v3/merchant/4024350132,证书密钥概览,2026-07-21,官方文档,03-58
+https://pay.weixin.qq.com/doc/v3/merchant/4054257696,小程序支付 接入易错点,2026-10-30,官方文档,03-55; 07-107
+https://pay.weixin.qq.com/doc/v3/partner/4012062375,特约商户进件 接入前准备,2026-10-20,官方文档,03-18
+https://pay.weixin.qq.com/doc/v3/partner/4012072582,分账 产品介绍（服务商）,2025-05-13,官方文档,03-28
+https://pay.weixin.qq.com/doc/v3/partner/4012082816,微信支付：优惠费率活动对照表（合作伙伴）,2024-12-26,官方文档,03-87; 05-33
+https://pay.weixin.qq.com/doc/v3/partner/4012086891,微信支付合作伙伴文档中心·平台收付通-电商交易解决方案·产品介绍（含 2.8 跨境付款）,2026-10-20 更新,官方文档,02-121; 03-20; 04-99; 05-53
+https://pay.weixin.qq.com/doc/v3/partner/4012086921,微信支付合作伙伴文档中心·平台收付通-电商交易解决方案·开发接入准备（3.5 跨境商户）,2026-10-20 更新,官方文档,02-122; 03-23
+https://pay.weixin.qq.com/doc/v3/partner/4012476652,二级商户预约提现,2024-12-19,官方文档,03-26
+https://pay.weixin.qq.com/doc/v3/partner/4012476908,查询单笔退款（按微信支付退款单号，平台收付通）,更新时间 2024-11-04,官方文档,04-133
+https://pay.weixin.qq.com/doc/v3/partner/4012477737,请求分账回退（平台收付通，/v3/ecommerce/profitsharing/returnorders）,更新时间 2025-09-29,官方文档,04-117
+https://pay.weixin.qq.com/doc/v3/partner/4012759974,服务商模式 JSAPI/小程序下单,2025-03-31,官方文档,03-19
+https://pay.weixin.qq.com/doc/v3/partner/4015181616,发起异常退款（平台收付通，/v3/ecommerce/refunds/{refund_id}/apply-abnormal-refund）,更新时间 2025-06-06,官方文档,04-135
+https://pay.weixin.qq.com/doc/v3/partner/4015217874,业务示例代码_交易退款（平台收付通）,更新时间 2026-06-10,官方文档,04-134
+https://pay.weixin.qq.com/doc/v3/partner/4015792574,微信支付 开具通用行业电子发票（服务商 API）,2025-12-03,官方文档,03-99
+https://pay.weixin.qq.com/docs/merchant/apis/mini-program-payment/create.html,退款申请 - 小程序支付（微信支付商户文档中心）,更新时间 2025-01-09,官方文档,04-95
+https://pay.weixin.qq.com/docs/merchant/apis/profit-sharing/orders/create-order.html,请求分账（普通商户）,2025-09-29,官方文档,03-30
+https://pay.weixin.qq.com/docs/merchant/apis/profit-sharing/receivers/add-receiver.html,添加分账接收方（普通商户）,2025-09-29,官方文档,03-31
+https://pay.weixin.qq.com/docs/merchant/development/access-specification/trading-operation-specification.html,交易投诉运营规范,2024-09-23,官方文档,03-38
+https://pay.weixin.qq.com/docs/merchant/products/fapiao/introduction.html,微信支付 电子发票 产品介绍（普通商户）,2025-09-25,官方文档,03-100; 07-20
+https://pay.weixin.qq.com/docs/merchant/products/fapiao/preparation.html,微信支付 电子发票 开发接入准备（普通商户）,2026-05-19,官方文档,03-98
+https://pay.weixin.qq.com/docs/merchant/products/weixin-pay-score/introduction.html,微信支付分（普通商户）产品介绍,2024-12-09,官方文档,03-66
+https://pay.weixin.qq.com/docs/partner/apis/ecommerce-profit-sharing/orders/create-order.html,平台收付通 请求分账,2025-09-29,官方文档,03-25
+https://pay.weixin.qq.com/docs/partner/apis/ecommerce-refund/refunds/create-refund.html,申请退款（平台收付通，/v3/ecommerce/refunds/apply）,更新时间 2024-11-04,官方文档,04-115
+https://pay.weixin.qq.com/docs/partner/apis/ecommerce-subsidy/subsidies/return.html,请求补差回退（平台收付通）,更新时间 2024-11-04,官方文档,04-132
+https://pay.weixin.qq.com/docs/partner/products/ecommerce/introduction.html,平台收付通 产品介绍（旧文档地址，含补差示例）,2026-10-20,官方文档,03-21
+https://pay.weixin.qq.com/docs/partner/products/ecommerce/preparation.html,平台收付通 接入前准备,2026-10-20,官方文档,03-22
+https://pay.weixin.qq.com/index.php/public/apply_sign/protocol_violation,微信支付违规商户处理规则,日期未知,官方文档,03-36
+https://pay.weixin.qq.com/static/applyment_guide/applyment_detail_miniapp.shtml,微信支付·小程序接入指引,日期未知,官方文档,01-31; 03-6; 05-58
+https://pay.weixin.qq.com/static/partner_ability/business_payment.shtml,平台收付通（服务商平台产品页）,日期未知,官方文档,03-24; 05-52
+https://pay.weixin.qq.com/static/pay_setting/appid_protocol.shtml,APPID 授权管理功能介绍,日期未知,官方文档,03-8
+https://pay.weixin.qq.com/static/protocol/protocol_payment_v3.shtml,微信支付服务协议（收款商家）,日期未知,官方文档,03-15
+https://pay.weixin.qq.com/xdc/mchtranstemplate/index.php/xphp/cmch_trans_template/doc_operate_protocol,《微信支付运营功能服务协议》（平台二级商户）及附属规则（第七条退款条款；附属规则 2.5 退款规程）,页面未标注日期（2026-11-03 读取）,官方文档,04-131
+https://pay.weixin.qq.com/xdc/payscore,微信支付分 产品页,日期未知,官方文档,03-65
+https://qhca.miit.gov.cn/zwgk/dxgl/dxfw/art/2020/art_cb5b36103a2c47d6bd048063aa732453.html,青海省通信管理局：增值电信业务经营许可及非经营性互联网信息服务备案常见问题解答,2020-12-30,官方文档,02-29
+https://store.weixin.qq.com/chengzhang/article/wiki?docid=7296&nonce=99bdb51e4787f776&category_key=growth_center_manual_for_store,微信小店「小程序连接小店」功能指引,2025-01-22,官方文档,05-82
+https://store.weixin.qq.com/chengzhang/rule/shop/29,微信小店成长中心 - 规则中心,2026-11-02 访问,官方文档,04-54
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/9416/b31d2696fcf93375/growth_center_manual_for_supplier/1,《微信小店供货商「供货管理」使用指引》,2026-09-11,官方文档,05-19
+https://ythzxfw.miit.gov.cn/bssx/alx/dxhhlw/art/2025/art_5898effe0ba947d0bbfeff111b09f7fe.html,工信部政务服务平台·电信业务经营许可办事指南,页面未标日期（URL 路径为 2025）,官方文档,02-23
+https://developer.apple.com/cn/programs/mini-apps-partner/,Mini Apps Partner Program（Apple 开发者官网中文页）,日期未知,官方文档（Apple）,03-83
+https://e.qq.com/faq/wechat-store/growth/faq-zcjc-007/,微信小店 FAQ：微信小店和视频号、公众号、小程序是什么关系？,2026-08-24,官方文档（FAQ）,05-17
+https://e.qq.com/faq/wechat-store/growth/faq-zcjc-008/,微信小店 FAQ：开店需要多少钱？零保证金是真的吗？,2026-08-24,官方文档（FAQ）,05-7
+https://e.qq.com/faq/wechat-store/payment/faq-zfjs-002/,微信小店 FAQ：技术服务费如何计算？,2026-08-24,官方文档（FAQ）,05-8
+https://e.qq.com/faq/wechat-store/payment/faq-zfjs-005/,微信小店 FAQ：货款什么时候到账，如何查看结算进度？,2026-08-24,官方文档（FAQ）,05-10
+https://e.qq.com/faq/wechat-store/payment/faq-zfjs-007/,微信小店 FAQ：2026 年新商技术服务费优惠有哪些条件？,2026-08-24,官方文档（FAQ）,05-9
+https://e.qq.com/faq/wechat-store/store-setup/faq-kdrz-004/,微信小店 FAQ：微信小店开店需要多久审核？,2026-08-11,官方文档（FAQ）,05-4
+https://kf.qq.com/faq/161219JvMNvi161219raieiY.html,腾讯客服：微信认证需要支付的费用（公众号/服务号）,日期未知,官方文档（客服 FAQ）,01-50
+https://kf.qq.com/faq/170109F3MRFj170109eYJ7fi.html,腾讯客服：小程序注册上限和绑定上限,日期未知,官方文档（客服 FAQ）,01-40
+https://kf.qq.com/faq/170109by2mQB170109zUFfqe.html,腾讯客服：小程序微信认证方法（含自主续期）,日期未知,官方文档（客服 FAQ）,01-47
+https://kf.qq.com/faq/170109iQBJ3Q170109JbQfiu.html,腾讯客服：小程序注册流程,日期未知,官方文档（客服 FAQ）,01-39
+https://kf.qq.com/faq/170109nQRFJb170109fi6JJR.html,腾讯客服：小程序基本信息填写,日期未知（含 2019 年说明）,官方文档（客服 FAQ）,01-43
+https://kf.qq.com/faq/170109umMvm6170109MZNnYV.html,腾讯客服：小程序名称、简称设置规范,日期未知,官方文档（客服 FAQ）,01-42
+https://kf.qq.com/faq/170302zeQryI170302beuEVn.html,腾讯客服：小程序成员管理,日期未知,官方文档（客服 FAQ）,01-51; 06-116
+https://kf.qq.com/faq/170705YVZFZZ170705eyI7Rr.html,腾讯客服：公众号/服务号快速注册并认证小程序,日期未知,官方文档（客服 FAQ）,01-44
+https://kf.qq.com/faq/18083032QvyY180830yAZVnM.html,腾讯客服：微信支付商户号解绑操作指引,日期未知,官方文档（客服 FAQ）,03-85
+https://kf.qq.com/faq/180830QZzMfa180830RJFFFb.html,腾讯客服：小程序主体变更服务类目及插件问题指引,日期未知,官方文档（客服 FAQ）,01-57
+https://kf.qq.com/faq/180830maE3qy180830maQbA7.html,腾讯客服：小程序主体上限,日期未知,官方文档（客服 FAQ）,01-41
+https://kf.qq.com/faq/1808316namiU180831ue6Fbu.html,腾讯客服：小程序主体变更概览,日期未知,官方文档（客服 FAQ）,01-53
+https://kf.qq.com/faq/180831FBfE32180831UBr6Vn.html,腾讯客服：小程序主体变更条件,日期未知,官方文档（客服 FAQ）,01-52
+https://kf.qq.com/faq/180831mmyAJZ180831nE7jqE.html,腾讯客服：小程序主体变更申请函公证指引,日期未知,官方文档（客服 FAQ）,01-56
+https://kf.qq.com/faq/180831vqAvEF180831r6jeaa.html,腾讯客服：小程序主体变更费用,日期未知,官方文档（客服 FAQ）,01-55
+https://kf.qq.com/faq/180831vu6bMn1808317R73AV.html,腾讯客服：小程序主体变更申请步骤,日期未知,官方文档（客服 FAQ）,01-54
+https://kf.qq.com/faq/181226Afeiau1812263ui6VV.html,腾讯客服：组织类型小程序自主注销方法,日期未知,官方文档（客服 FAQ）,01-61
+https://kf.qq.com/faq/181226RJZ3Az181226IbAbIN.html,腾讯客服：小程序注销条件,日期未知,官方文档（客服 FAQ）,01-59
+https://kf.qq.com/faq/181226ua6Fje1812263ENJbq.html,腾讯客服：小程序注销问题汇总,日期未知,官方文档（客服 FAQ）,01-60
+https://kf.qq.com/faq/190802nAFfAN190802F7Bniq.html,腾讯客服：企业类型公众平台、开放平台账号申请微信认证/年审法人扫脸验证的相关问题,日期未知,官方文档（客服 FAQ）,01-49
+https://kf.qq.com/faq/200918qMzEbi2009186VZVju.html,腾讯客服：小程序主体修正,日期未知,官方文档（客服 FAQ）,01-58
+https://kf.qq.com/faq/210917vU3YFv210917aa6F73.html,腾讯客服：公众账号申请认证时主体验证方式区别,日期未知,官方文档（客服 FAQ）,01-48
+https://kf.qq.com/faq/231114eyInYR23111463uqeM.html,腾讯客服：小程序微信认证申请流程指引（个人）,日期未知（FAQ 编号对应 2023-11-14）,官方文档（客服 FAQ）,01-46
+https://kf.qq.com/touch/wxappfaq/170427jEVzAZ170427bMbMJf.html,腾讯客服：小程序快速认证指引,日期未知,官方文档（客服 FAQ）,01-45
+https://gdca.miit.gov.cn/bsfw/bszn/jyxk/tzgg/art/2025/art_9802f0eeae4647b5bc22a6af33ae0bf7.html,广东省通信管理局：增值电信业务经营许可申请指南,2025-02-20,官方文档（省通信管理局）,02-49
+https://hunca.miit.gov.cn/bsfw/bszn/art/2022/art_5ba0b48172b74e2dbd1828f52dc8c505.html,湖南省通信管理局：电信业务经营许可常见问题解答,2022-07-06,官方文档（省通信管理局）,02-68
+https://hunca.miit.gov.cn/bsfw/bszn/art/2022/art_9d64d0d1ac4a4a93800c026e8f24a75d.html,湖南省通信管理局：增值电信业务经营许可办事指南,2022-07-06,官方文档（省通信管理局）,02-50
+https://jxca.miit.gov.cn/bsfw/bszn/dxywjyxk/art/2020/art_515630190655463192a07f39767e479d.html,江西省通信管理局：增值电信业务经营许可申请审批指南,2020-06-16,官方文档（省通信管理局）,02-51
+https://shca.miit.gov.cn/bsfw/bszn/dxsc/blcx/art/2022/art_5c0702e60552429cae3813314b156951.html,上海市通信管理局：增值电信业务经营许可常见问题清单,2022-07-13,官方文档（省通信管理局）,02-58
+https://e.qq.com/faq/wechat-store/store-setup/wechat-store/,微信小店 FAQ：个体工商户可以开微信小店吗？,2026-08-11,官方文档（腾讯营销 FAQ）,05-3
+https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/ministore/minishopopencomponent2/baozhengjin.html,小程序交易保证金管理规定（含附件1《小程序交易保证金一览表》）,附件1 2025-11-06 更新；页面最后编辑 2026-11-02,官方文档（规则）,05-59
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/1270/c1f8fa40d604582a/growth_center_rule_for_store,《微信小店商家技术服务费管理规则》,2025-02-25 生效,官方文档（规则）,05-77
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/2063/9c63c672daee8eca/growth_center_rule_for_store/1,《微信小店入驻规则》,2026-06-17 生效,官方文档（规则）,05-2
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/2076/f0276f878da3a9cd/growth_center_rule_for_store/1,《微信小店「0保证金试运营」管理规则》,2025-11-05 生效,官方文档（规则）,05-6
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/2225/4fe155ea7c24e970/growth_center_rule_for_store,《微信小店结算规则说明》（现行 2025-11-14 版）,2025-11-14 生效,官方文档（规则）,05-79
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/631/b5b7e68bd1a0ad43/growth_center_rule_for_store,《微信小店保证金条款》,2024-05-24 生效,官方文档（规则）,05-5
+https://store.weixin.qq.com/chengzhang/webdoc/wiki/7185/e42b46ba18e5b830/growth_center_rule_for_store,《微信小店保证金管理规则》,2025-01-09 生效,官方文档（规则）,05-78
+https://ad.weixin.qq.com/docs/49,小程序广告组件（流量主广告形式与分成）,2024-09-03,官方文档（页面为前端渲染，原文经该站 designapi 接口读取）,09-56
+https://ad.weixin.qq.com/docs/50,小程序流量主开通流程（微信广告帮助中心）,2026-10-26,官方文档（页面为前端渲染，第 9 章核查时经站内接口读取原文）,01-73; 09-57
+https://whlyj.beijing.gov.cn/zwgk/xwzx/gwyxx/202609/t20260901_4845069.html,李强主持召开国务院常务会议（新华社通稿，北京市文化和旅游局网站转载）,2026-08-31,官方新闻,03-121
+https://www.news.cn/politics/leaders/20261016/d8969515718a4e518f4398f44797f552/c.html,李强主持召开国务院常务会议（新华网，讨论并原则通过价格法修正草案）,2026-10-16,官方新闻,04-76
+https://www.samr.gov.cn/xw/zj/art/2026/art_273d1472da7a4b5b8a869f2e900a7e03.html,市场监管总局发布《网络销售重点工业产品清单（2026年版）》,2026-06-25,官方新闻,02-105
+https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/zhqyj/index.html,国家药监局征求意见栏目：国家药监局综合司公开征求《医疗器械网络销售监督管理办法（修订草案征求意见稿）》意见（检索摘要显示栏目条目日期，征求意见稿正文未打开）,2026-07-27,官方栏目页,02-98
+https://developers.weixin.qq.com/community/develop/doc/000646718d40a08a65ed1e2175bc09,关于申请小程序地理位置相关接口的规范,日期未知（约 2022 年，据搜索摘要）,官方社区公告,07-27
+https://developers.weixin.qq.com/community/minihome/doc/00000643a2c5d80abef2ef8d76e401,腾讯位置服务 - 接口能力迁移公告,2025-03-07（据搜索摘要）,官方社区公告,07-95
+https://developers.weixin.qq.com/community/minihome/doc/0000a2e0660d98c57134c2dfc66001,小程序报税问题FAQ,2025-11-13 发布，2026-03-27 更新,官方社区公告,02-17; 03-119
+https://developers.weixin.qq.com/community/develop/doc/0000041eb287906aaf796113356809,如果你不认可平台处理，该如何申诉？（社区运营专员）,2019-11-19（2023-04-04 更新）,官方社区回复,08-26
+https://developers.weixin.qq.com/community/develop/doc/0000682058cba064c934f1aee66c00,开放社区帖《无忧退货有运费险无法调起无忧退货只会出现上门取件？》下社区运营账号的回复（社区未标注为官方用户）,2025-11-17、2025-11-28,官方社区回复,04-119
+https://developers.weixin.qq.com/community/develop/doc/0000a2afa84bf893ece3a47d36ec00,开放社区帖《为什么现在申请的微信小程序后台没有无忧退货（运费险）的申请窗口？》下社区运营账号的回复（社区未标注为官方用户；帖下 2026-01-15 有开发者称服务市场仍未上架）,2025-09-16,官方社区回复,04-120
+https://developers.weixin.qq.com/community/develop/doc/00024c8b7d04d02928602e19c62800,开放社区《小程序发货信息管理接入后，预售（定金+尾款）业务如何进行确认收货？》下“社区技术运营专员”的回复（社区未标注为官方用户，但带社区运营标识；3 条子回复需登录，未能读取）,2023-09-25 提问，2023-09-26 回复,官方社区回复,04-93
+https://developers.weixin.qq.com/community/develop/doc/00026addda8b78d545fd54f325b800,开放社区帖《自建小程序商城如何购买运费险？》下“微信物流产品经理”账号的回复（社区未标注为官方用户）,2023-11-22、2023-11-28,官方社区回复,04-121
+https://developers.weixin.qq.com/community/develop/doc/0004661f7acf904bf7e17127b6bc00,开放社区帖《无忧退货组件是否可以，不购买运费险，只使用其中的退货组件呢？》下“社区技术运营专员”的回复（社区未标注为官方用户）,2024-08-06、2024-08-13,官方社区回复,04-129
+https://developers.weixin.qq.com/community/develop/doc/0004a08ebfcfd042ca71dca7861c00,现在连JS分析告警和接口告警都是要钱了吗？（官方人员回复）,2024-05-06,官方社区回复,08-33
+https://developers.weixin.qq.com/community/develop/doc/000602026a47f0c1e044555a569400,文本内容和多媒体内容安全识别是否收费（官方社区回复）,2025-12-02（据搜索摘要）,官方社区回复,07-60
+https://developers.weixin.qq.com/community/develop/doc/000604fb4c82489c9922dbcfc61c00,小程序加急审核为什么超出预计时间还是没有审核？（小程序运营专员回复）,2024-09-23,官方社区回复,08-76
+https://developers.weixin.qq.com/community/develop/doc/00064e818481383d4abf3f43657800,开放社区《关于虚拟发货的问题咨询？》（问定金单上传虚拟单号会不会被判虚拟发货）下社区工作人员账号的回复（社区未标注为官方用户，但带运营标识）,2023-05-10 提问，2023-05-11 回复,官方社区回复,04-96
+https://developers.weixin.qq.com/community/develop/doc/0006eafd2309781a1b61edf0663400,小程序代码审核和备案审核要多久？（官方人员回复）,2024-04-15,官方社区回复,08-65
+https://developers.weixin.qq.com/community/develop/doc/0008e8fa058f78cc1bc59969f66800,开放社区《咨询小程序实物商品“定金＋尾款”预售的支付、发货及结算规则？》下“社区运营专员”的回复（社区未标注为官方用户，但带运营标识）,2026-09-23 提问，2026-09-23 回复,官方社区回复,04-94
+https://developers.weixin.qq.com/community/develop/doc/0008eeafd74fb88f1a407824766800,小程序发布审核需要多久？（官方回复与用户说法）,2023-08-30,官方社区回复,08-71
+https://developers.weixin.qq.com/community/develop/doc/000a0ecbc2c378b780317867b6bc00,提示类目有效期将到期，该怎么操作啊？（含平台提醒文案与官方回复）,2024-03-13,官方社区回复,08-56
+https://developers.weixin.qq.com/community/develop/doc/000aac2114cd38de57c368c466c000,审核时间较长？（小程序运营专员与社区智能回答回复）,2025-08-15,官方社区回复,08-80
+https://developers.weixin.qq.com/community/develop/doc/000c4c60e04578d2186b9b47656400,加急审核的机会什么时候重置？（小程序运营专员回复）,2020-12-10,官方社区回复,08-17
+https://developers.weixin.qq.com/community/develop/doc/000e0ceb08434876387499ead65400,开放社区《约定发货时效如何配置》下“小程序交易保障运营”的回复（社区未标注为官方用户，但带运营标识）,2025-12-31 提问，2026-01-04 回复,官方社区回复,04-91
+https://developers.weixin.qq.com/community/develop/doc/000e62fdce0928d4e6247b93761c00,代码上传并提交审核后，一般需要多久能够审核完成，周末有人员进行审核吗？（小程序运营专员回复）,2025-11-09,官方社区回复,08-74
+https://developers.weixin.qq.com/community/develop/doc/000ec8e6404300c80782d33a666000,小程序服务商提交审核的小程序审核时间太慢？（第三方平台小助手回复）,2024-11-29,官方社区回复,08-19
+https://developers.weixin.qq.com/community/minihome/doc/0002248ce149b02dc5b4d09be66400,微信开放社区：同一个小程序appid可以既支持新的虚拟支付，又支持原有的实物支付么？（回复账号即 iOS 虚拟支付通知的发布账号）,2026-02-27,官方社区回复,03-133
+https://developers.weixin.qq.com/community/minihome/doc/00042433fecc5031bd742e6ba66400,小程序发布新版本审核需要多长时间？（官方人员回复）,2026-01-08,官方社区回复,08-18
+https://developers.weixin.qq.com/community/minihome/doc/0004a40e15cf9831c534bf8d46b400,开放社区帖《无忧退货(运费险)到底下架了没 为啥还能使用？》下社区运营账号的回复（社区未标注为官方用户）,2025-11-17,官方社区回复,04-118
+https://developers.weixin.qq.com/community/minihome/doc/000602026a47f0c1e044555a569400,官方社区回复：文本内容和多媒体内容安全识别是否收费,2025-12-02,官方社区回复,05-66
+https://developers.weixin.qq.com/community/minihome/doc/0006eaf21b0a70e06c92a356e62800,开放社区帖《微信退货组件，下单后（通过上门揽件或者自行寄回），没有回调吗？》下社区运营人员账号的回复（社区未标注为官方用户）,2024-12-17,官方社区回复,04-126
+https://developers.weixin.qq.com/community/minihome/doc/0008ea2ed00d384cd9b3c612566000,官方社区回复：小商店目前已暂停运营,2025-08-11,官方社区回复,05-72
+https://developers.weixin.qq.com/community/minihome/doc/000c843e9106306e3f689096f56008,微信开放社区置顶帖：报关接口常见问题Q&A（标题标注官方，发帖账号“微信团队”）,2019-04-11 发布，2025-03-28 最后编辑,官方社区回复,02-120
+https://developers.weixin.qq.com/community/minihome/doc/000e2cb7164fe8cd0a7426e4266000,小程序在凌晨时段发布代码，代码审核时间？（小程序运营专员回复）,2025-12-30,官方社区回复,08-75
+https://developers.weixin.qq.com/community/minihome/doc/000ec211d740c84ee4247b9e16bc00,微信小店客服社区回复：开机构后小店还要另交保证金吗？,2025-11-07,官方社区回复,05-22
+https://developers.weixin.qq.com/community/minihome/doc/0004a2d3214e90c38ea4e0fa661401,能力指引：小程序 iOS 虚拟支付现已支持,02-11（页面未显示年份，按上下文为 2026 年）,官方社区回复（微信团队公告）,03-75
+https://developers.weixin.qq.com/community/minihome/doc/000a04a261c0f0d5edc4972a96f401,微信小程序虚拟支付 iOS 渠道费率调整通知,2026-03-13,官方社区回复（微信团队公告）,03-76; 08-81
+https://developers.weixin.qq.com/community/develop/doc/00040a69d581d0532180aac0566c00,开放社区：支付后推荐关注公众号功能已下线（回复）,约 2023（日期未知）,官方社区回复（未直接抓取，据搜索摘要）,09-93
+https://developers.weixin.qq.com/community/develop/doc/000c28d02f8ca85a1e42b65596b800,微信开放社区：微信小程序储值功能需要什么资质？（社区运营专员回复）,2024-10-10 提问，2024-10-12 回复,官方社区回复（社区运营专员）,03-123
+https://developers.weixin.qq.com/community/develop/doc/0000422a25c5185f625db831251800,微信开放社区：线上购买电子卡，可线上兑换实物，是否算是虚拟支付？（社区运营账号回复）,2022-01-13 提问，2022-01-19 回复,官方社区回复（社区运营账号）,03-122
+https://developers.weixin.qq.com/community/develop/doc/000062aff48f90a9ee9a701315bc00,微信开放社区：电商平台，付费成为会员后才能购买商品，所有商品都是实物，是否属于虚拟支付？（社区运营账号回复）,2020-07-08（提问与回复同日）,官方社区回复（社区运营账号）,03-127
+https://developers.weixin.qq.com/community/develop/doc/00044884de4210645c9e937b457800,微信开放社区：微信小程序售卖腾讯视频会员卡、京东E卡等权益，是否属于虚拟商品？（社区运营账号回复）,2022-09-23 提问，2022-09-29 回复,官方社区回复（社区运营账号）,03-132
+https://developers.weixin.qq.com/community/business/doc/000000d4760550f3de88f06545b80d,小程序类目简介（运营课程）,2019-05-14 发布，2024-09-09 更新,官方社区文档,02-10
+https://developers.weixin.qq.com/community/minihome/doc/00002cf077cd4810fee42f4b865c01,虚拟支付业务运营指南,2026-04-08 发布，2026-10-12 更新,官方社区文档,02-19; 03-74
+https://developers.weixin.qq.com/community/develop/doc/0006e8a6e28a38c6ef88db7f051401,微信开放社区：小程序审核：名称规则调整及优化建议,2019-05-15（2023-08-17 更新）,官方社区文章（作者账号未显示官方标识）,01-62
+https://developers.weixin.qq.com/community/develop/doc/0008025fc5c2202221f98c44558400,微信开放社区用户提问：电商平台类目：增值电信业务经营许可证？,2020-02-22,官方社区运营专员 2020-02-24 回复“EDI 或 ICP 其中一项即可”（已打开核实；与现行类目表不一致）,02-37
+https://developers.weixin.qq.com/community/develop/doc/000424d57d4ff8e547ca440a451000,微信开放社区：电商平台类目的审核材料究竟需要哪些？,2020-08-07 提问，2020-08-10 社区运营专员回复,官方社区运营专员回复,02-76
+https://developers.weixin.qq.com/community/develop/doc/0000eae46b0f80e164d083f6961000,微信开放社区用户提问：小程序申请电商平台类目，需要增值电商证书许可吗？,2023-12-26,官方社区运营专员回复（已打开核实：EDI 或 ICP，或不予受理通知书加全套申请材料，二选一）；楼中其他回复为第三方说法,02-36
+https://developers.weixin.qq.com/community/develop/doc/000a86a88200b0f6998be71f95bc00,微信开放社区：EDI ICP 增值电信业务经营许可证 餐饮小程序疑问？,2021-01-11,官方社区运营专员回复（点餐平台类目）,02-62
+https://shanghai.chinatax.gov.cn/hktax/ztzl/yshj/sycz/202411/t473961.html,【涨知识】家电以旧换新税收小知识（国家税务总局上海市虹口区税务局）,2024-11-11,官方科普（区级税务局）,03-104
+http://www.hunan.gov.cn/zqt/zcjd/bmjd/202601/t20260113_33892049.html,市场监管总局执法稽查局相关负责人就《市场监督管理投诉举报处理办法》答记者问（湖南省人民政府门户网站转载）,2026-01-10,官方解读,04-67
+https://fgk.chinatax.gov.cn/zcfgk/c100015/c5241475/content.html,关于《国家税务总局关于互联网平台企业为平台内从业人员办理扣缴申报、代办申报若干事项的公告》的解读,2025-06-26,官方解读,03-114
+https://fgk.chinatax.gov.cn/zcfgk/c100015/c5241480/content.html,关于《国家税务总局关于互联网平台企业报送涉税信息有关事项的公告》的解读,2025-06-26,官方解读,03-107
+https://gxt.hebei.gov.cn/hbgyhxxht/zcfg30/zcjd17/2025042121530318584/index.html,《电信业务经营许可管理办法》解读（来源工信部网站，河北省工业和信息化厅转载）,2017-07-14,官方解读,02-66
+https://sw.beijing.gov.cn/phone/zwxx/2024zcjdphone/202605/t20260514_4650757.html,《北京市单用途商业预付卡备案及预收资金管理实施办法》政策解读（北京市商务局）,2026-05-14,官方解读,03-138
+https://www.court.gov.cn/zixun/xiangqing/459341.html,七日无理由退款与七日无理由退货是何关系？最高法民一庭负责人答记者问,2025-03-14,官方解读,03-144
+https://www.chinatax.gov.cn/chinatax/c102414/c5243342/content.html,互联网平台企业涉税信息报送常见问答（国家税务总局征管和科技发展司）,2025-09-25,官方问答,03-111
+https://shanghai.chinatax.gov.cn/zcfw/rdwd/202308/t468400.html,备注栏信息、发票额度、扫码开票、数电票热点问答（国家税务总局上海市税务局）,2023-08-23,官方问答（省级税务局）,03-96
+https://shanghai.chinatax.gov.cn/zcfw/rdwd/202510/t477934.html,关于纳税人日常用票中的热点问答（国家税务总局上海市税务局）,2025-10-11,官方问答（省级税务局）,03-93
+https://shanghai.chinatax.gov.cn/zcfw/rdwd/202607/t480902.html,合规开票的热点问答（国家税务总局上海市税务局）,2026-07-13,官方问答（省级税务局）,03-92
+https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=F9F3A2EBF49E9B4D73AD8C8912986D5A,GB/T 45574-2025 数据安全技术 敏感个人信息处理安全要求（国家标准全文公开系统）,2025-04-25 发布，2025-11-01 实施，现行,官方（国家标准）,07-99
+https://developers.weixin.qq.com/community/develop/doc/00008af52d008896d7dceb4f35d801,小程序搜索优化调整（SEO）公告,2021-10-08,开放社区公告（落款微信团队）,09-20
+https://developers.weixin.qq.com/community/minihome/doc/000e661c2c8fe88b2ba3540f062000,开放社区问答《实物交易类小程序跳转保证金10万缴纳与否，是否影响跳转、支付功能？》下“小程序交易保障运营”的回复,2025-07-18,开放社区回复（社区未标注为官方用户）,04-61; 05-60
+https://developers.weixin.qq.com/community/develop/doc/00060c51ed8448a6002cff96659401,小程序类目审核加急通道开放,2021-05-11,开放社区帖（正文落款“微信团队”，但发帖的是个人账号，不是官方认证账号；2025–2026 年是否仍然有效未核实，第 8 章同此标注）,02-13; 08-62
+https://developers.weixin.qq.com/community/develop/doc/000ea67b1c0f7884bc353996d66001,关于开发者接入微信AI生态的指引,2026-06-08,开放社区文章（社区显示发帖账号不是官方账号，是否官方公告无法确认）,09-85
+https://www.pbc.gov.cn/tiaofasi/144941/144979/3941920/2026072410231958216/index.html,中国人民银行关于《储值账户运营Ⅱ类业务管理办法（征求意见稿）》公开征求意见的通知（含附件全文）,2026-07-24（意见截止 2026-08-08）,征求意见稿,03-143
+https://zjamr.zj.gov.cn/art/2026/3/29/art_1229011333_59052247.html,关于公开征求《浙江省单用途预付消费卡管理条例（草案）》意见的通知（浙江省市场监督管理局）,2026-03-29（意见截止 2026-04-26）,征求意见稿,03-141
+https://scjgj.beijing.gov.cn/zwxx/scjgdt/202605/t20260507_4639154.html,北京市市场监督管理局：找不到生产日期？食品标签要“变脸”！新规这些重点必看,2026-05-07,政府网站解读,02-93
+https://www.shanghai.gov.cn/nw4411/20250301/ede37a8417d84ec19dc91aed30c92ff2.html,上海获批增值电信扩大开放试点（上海市政府网）,2025-03-01,政府网站转载解放日报报道（已打开核实）,02-40
+https://developers.weixin.qq.com/miniprogram/dev/framework/client-lib/version.html,基础库版本分布（动态数据页及其数据接口）,；数据接口 https://mp.weixin.qq.com/debug/getpublibpercentage,数据更新于 2026-11-02 — 官方文档（动态数据）,06-11
+https://sctcm.sc.gov.cn/sctcm/sqzl/2022/4/29/efb81c500f1741988889b6cd15e9afbf.shtml,中华人民共和国广告法（四川省中医药管理局网站转载的 2018 修正文本；2021 年另有修正，本节未逐字核对现行文本）,2018-10-26 修正,法律,04-73
+https://www.mofcom.gov.cn/zhrmghgdzswf/fg/art/2018/art_cc9187dd95cd40158552d78a610e8c29.html,中华人民共和国电子商务法（商务部网站）,2018-08-31 通过，2019-01-01 施行,法律,04-86; 09-82
+https://www.cfachina.org/governmentrules/lawsandregulations/202401/t20240104_63471.html,中华人民共和国民事诉讼法（2023修正，中国期货业协会网站转载）,2023-09-01 修正，2024-01-01 施行,法律（转载）,04-85
+http://com.gd.gov.cn/zggdzymysyq/zcfg/gjzc/content/post_4072886.html,海关总署公告2021年第70号（关于全面推广跨境电子商务零售进口退货中心仓模式的公告，广东省商务厅转载）,2021-09-10 落款，自发布之日起施行,法规,02-141
+http://gss.mof.gov.cn/gzdt/zhengcefabu/202202/P020220221322524635155.pdf,跨境电子商务零售进口商品清单调整表（财政部等八部门公告2022年第7号附件，财政部关税司网站 PDF）,2022-02-21 公布，2022-03-01 起施行,法规,02-109
+http://swt.xizang.gov.cn/xwzx/gsgg/202503/W020250319410443430539.pdf,单用途商业预付卡管理办法（试行）（根据2016年8月18日商务部第2号令修订；西藏自治区商务厅发布的修订后全文）,2016-08-18 修订（PDF 2025-03 上网）,法规,03-129
+http://www.hunan.gov.cn/zqt/zcsd/202408/t20240805_33421267.html,非银行支付机构监督管理条例实施细则（中国人民银行令〔2024〕第4号，湖南省人民政府网转载）,2024-07-09 公布并施行,法规,02-115
+http://www.npc.gov.cn/zgrdw//npc/xinwen/2013-10/26/content_1811773.htm,中华人民共和国消费者权益保护法（中国人大网）,2013-10-25 修正,法规,04-46
+http://www.npc.gov.cn/zgrdw/npc/xinwen/2013-10/26/content_1811773.htm,中华人民共和国消费者权益保护法（2013年修正）,2013-10-25 修正,法规,02-33; 03-89
+http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-08/31/content_2060172.htm,中华人民共和国电子商务法,2018-08-31,法规,01-27
+http://www.pjrd.gov.cn/2026_09/14_16/content-575816.html,中华人民共和国网络安全法（2025 年修正全文，盘锦人大网转载）,2026-01-01 施行,法规,07-82
+http://zhejiang.chinatax.gov.cn/art/2016/3/24/art_8409_13501.html,财政部 海关总署 国家税务总局关于跨境电子商务零售进口税收政策的通知（财关税〔2016〕18号，国家税务总局浙江省税务局网站）,2016-03-24，2016-04-08 起执行,法规,02-127
+https://amr.hunan.gov.cn/amr/zwx/xxgkmlx/sszdggx/wjfbx/202010/t20201013_13852840.html,国家市场监督管理总局关于废止部分规章的决定（国家市场监督管理总局令第29号；湖南省市场监督管理局转载，载明 2020-07-07 局务会议通过）,2020-07-13 公布（转载页 2020-07-16）,法规,04-104
+https://amr.hunan.gov.cn/amr/zwx/xxgkmlx/zcfgx/flfggzx/202303/t20230331_29302232.html,互联网广告管理办法（国家市场监督管理总局令第72号，湖南省市场监管局转载）,2023-02-25 公布，2023-05-01 施行,法规,02-100; 09-80
+https://amr.sz.gov.cn/gkmlpt/content/8/8775/post_8775345.html,禁止传销条例（深圳市市场监管局转载）,2005-08-23 公布,法规,09-79
+https://dzswgf.mofcom.gov.cn/news/22/2019/11/1575013189789.html,海关总署公告2018年第165号（关于实时获取跨境电子商务平台企业支付相关原始数据有关事宜的公告，商务部电子商务公共服务网转载自海关总署网站）,2018-11-08 签发，2019-01-01 起执行,法规,02-114
+https://faolex.fao.org/docs/pdf/chn201979.pdf,中华人民共和国进出口食品安全管理办法（海关总署令第249号，FAOLEX 收录的令文 PDF）,2021-04-12 公布，2022-01-01 施行,法规,02-145
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193028/content.html,中华人民共和国个人所得税法（税务总局政策法规库）,2018-08-31 修正,法规,03-94
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html,中华人民共和国税收征收管理法（2015年修正，税务总局政策法规库）,2015-04-24,法规,03-120
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5237365/content.html,中华人民共和国增值税法（税务总局政策法规库）,2024-12-25 通过，2026-01-01 施行,法规,03-108
+https://fgk.chinatax.gov.cn/zcfgk/c100010/c5195084/content.html,中华人民共和国发票管理办法（2023-07-20 第三次修订，税务总局政策法规库）,2023-07-20,法规,03-90
+https://fgk.chinatax.gov.cn/zcfgk/c100010/c5241238/content.html,互联网平台企业涉税信息报送规定（国务院令第810号）,2025-06-20,法规,02-35; 03-113
+https://gaj.gz.gov.cn/zwfw/content/post_2349845.html,信息安全等级保护管理办法（公通字〔2007〕43 号，广州市公安局网站）,2007-06-22,法规,07-83
+https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=104105,中华人民共和国食品安全法（2025年修正，主席令第56号；商务部法规库转载，信息来源国家法律法规数据库）,2025-09-12 修正，2025-12-01 施行,法规,02-90; 04-68
+https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=69004,消费品召回管理暂行规定（国家市场监督管理总局令第19号，商务部法规库转载）,2019-11-21 公布，2020-01-01 施行,法规,02-107
+https://qhca.miit.gov.cn/zwgk/zcwj/flfg/art/2022/art_0a66ad8c82c94c77bf56d698a1f35d64.html,电信业务分类目录（2015年版）（青海省通信管理局公布）,页面 2022-02-21,法规,02-25
+https://scjg.hebei.gov.cn/info/84884,明码标价和禁止价格欺诈规定（国家市场监督管理总局令第 56 号，河北省市场监管局转载）,2022-04-14 公布，2022-07-01 施行,法规,02-48; 09-76
+https://scjgj.sh.gov.cn/207/20240725/f7066cccb1ec4c2f88b6c49ed3c1b6c3.html,药品、医疗器械、保健食品、特殊医学用途配方食品广告审查管理暂行办法（国家市场监督管理总局令第21号，上海市市场监管局转载）,2019-12-24 公布，2020-03-01 施行,法规,02-102
+https://scjgj.sh.gov.cn/903/20250924/7e43b9954ca24b349488e5b464e83ac8.html,中华人民共和国广告法（2021年第二次修正，上海市市场监管局转载）,2021-04-29 修正,法规,02-101
+https://shanghai.chinatax.gov.cn/zcfw/zcfgk/zzs/202602/t479415.html,财政部 海关总署 税务总局关于跨境电子商务出口退运商品税收优惠政策的公告（2026年第16号，国家税务总局上海市税务局政策库）,2026-02-06 发文,法规,02-131
+https://sjfg.samr.gov.cn/law/file//pdf/3238901/1745896566752.pdf,网络食品安全违法行为查处办法（2025年第二次修订，市场监管总局法规库PDF）,2016-07-13 公布；2021-04-02、2025-03-18 修订,法规,02-80
+https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20260831095907192.shtml,财政部 税务总局关于明确非应税交易等增值税有关事项的公告（2026年第25号，天津市税务局转载）,2026-08-27 发布，2026-09-01 施行,法规,03-101
+https://wap.miit.gov.cn/zwgk/zcwj/flfg/art/2022/art_04a0f1fb5df244e39688fd5372623a8d.html,中华人民共和国个人信息保护法（工业和信息化部网站）,2021-08-20 通过，2021-11-01 施行,法规,02-135; 07-75
+https://www.baiyinqu.gov.cn/zz/qdfz/zcfg/art/2026/art_d251ed0ce68d481989e192663e1ad9ab.html,全国人大常委会关于修改《中华人民共和国网络安全法》的决定（白银区政府网站转载；原发：中国人大网主席令第六十一号）,2025-10-28 通过，2026-01-01 施行,法规,07-81
+https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/t20190522_61651.html,财政部 海关总署 税务总局关于完善跨境电子商务零售进口税收政策的通知（财关税〔2018〕49号，北京市政府网收录，废止日期栏为空）,2018-11-29 成文，2019-01-01 施行,法规,02-110
+https://www.by.gov.cn/gzbyscjg/gkmlpt/content/10/10365/post_10365868.html,明码标价和禁止价格欺诈规定（市场监管总局令第 56 号，广州市白云区政府网转载）,2022-07-01 施行（转载页 2025-07-22）,法规,04-47
+https://www.cac.gov.cn/2015-06/20/c_1115679683.htm,工业和信息化部关于放开在线数据处理与交易处理业务（经营类电子商务）外资股比限制的通告（工信部通〔2015〕196号，网信办转载）,2015-06-19,法规,02-24
+https://www.cac.gov.cn/2018-09/01/c_1123362506.htm,中华人民共和国电子商务法（网信办转载全文）,2018-08-31 通过，2019-01-01 施行,法规,02-30; 03-88; 07-79
+https://www.cac.gov.cn/2021-03/22/c_1617990997054277.htm,常见类型移动互联网应用程序必要个人信息范围规定,2021-03-22 发布，2021-05-01 施行,法规,07-77
+https://www.cac.gov.cn/2021-04/22/c_1620670982794847.htm,网络直播营销管理办法（试行）,2021-04-22 发布，2021-05-25 施行,法规,09-81
+https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm,中华人民共和国个人信息保护法（网信办转载）,2021-08-20 通过，2021-11-01 施行,法规,03-117; 08-57
+https://www.cac.gov.cn/2022-11/16/c_1670253725725039.htm,互联网跟帖评论服务管理规定,2022-11-16 发布，2022-12-15 施行,法规,07-91
+https://www.cac.gov.cn/2024-03/22/c_1712776611775634.htm,促进和规范数据跨境流动规定,2024-03-22（据搜索摘要与答记者问）,法规,07-86
+https://www.cac.gov.cn/2025-02/14/c_1741233507681519.htm,个人信息保护合规审计管理办法,2025-02-14 发布，2025-05-01 施行,法规,07-85
+https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm,国家网络安全事件报告管理办法,2025-09-15 发布，2025-11-01 施行,法规,07-84
+https://www.cac.gov.cn/2025-10/17/c_1762449728720008.htm,个人信息出境认证办法,2025-10-17 发布，2026-01-01 施行,法规,07-87
+https://www.cac.gov.cn/2026-01/07/c_1769515215345420.htm,网络交易平台规则监督管理办法,2025-12-18 公布，2026-02-01 施行,法规,02-32; 04-87
+https://www.cac.gov.cn/2026-04/24/c_1778769008779432.htm,金融产品网络营销管理办法（中国人民银行、工业和信息化部、市场监管总局、金融监管总局、中国证监会、国家知识产权局、国家网信办、国家外汇局公告〔2026〕第9号，中国网信网全文）,2026-04-21 公布，2026-09-30 施行,法规,04-142
+https://www.cnipa.gov.cn/art/2026/5/20/art_104_206437.html,中华人民共和国反不正当竞争法（2025 年修订，国家知识产权局转载自中国人大网）,2025-06-27 修订，2025-10-15 施行,法规,09-77
+https://www.court.gov.cn/fabu/xiangqing/419382.html,最高人民法院关于适用《中华人民共和国民法典》合同编通则若干问题的解释（法释〔2023〕13号；本节用第 10、67、68 条）,2023-12-04 公布，2023-12-05 施行,法规,04-90
+https://www.court.gov.cn/zixun/xiangqing/233181.html,中华人民共和国民法典（最高人民法院网站全文；本节用第 496、586、587、588 条）,2020-05-28 通过，2021-01-01 施行,法规,04-89
+https://www.gjxfj.gov.cn/2019-04/23/c_139959991.htm,中华人民共和国行政许可法（国家信访局网站转载，来源国家法律法规数据库）,2019-04-23 修正,法规,02-78
+https://www.gov.cn/gongbao/2023/issue_10606/202307/content_6894763.html,食品经营许可和备案管理办法（国家市场监督管理总局令第78号，国务院公报2023年第21号）,2023-06-15 公布，2023-12-01 施行,法规,02-79
+https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980863.html,网络数据安全管理条例（国务院令第 790 号）,2024-09-24 公布，2025-01-01 施行,法规,07-76
+https://www.gov.cn/gongbao/2025/issue_11966/202504/content_7017467.html,中共中央办公厅 国务院办公厅关于进一步强化食品安全全链条监管的意见（国务院公报2025年第10号）,2025-03-13 落款，2025-03-19 播发,法规,02-148
+https://www.gov.cn/gongbao/2026/issue_12486/202601/content_7054232.html,中华人民共和国增值税法实施条例（国务院令第826号，国务院公报）,2025-12-25 公布，2026-01-01 施行,法规,03-91
+https://www.gov.cn/gongbao/content/2017/content_5240090.htm,电信业务经营许可管理办法（工信部令第42号，国务院公报2017年第32号）,2017-07-03 公布，2017-09-01 施行,法规,02-22
+https://www.gov.cn/gongbao/content/2018/content_5277700.htm,医疗器械网络销售监督管理办法（原国家食品药品监督管理总局令第38号，国务院公报2018年第9号）,2017-12-20 公布，2018-03-01 施行,法规,02-84
+https://www.gov.cn/gongbao/content/2021/content_5593447.htm,互联网保险业务监管办法（中国银保监会令2020年第13号，中国政府网·国务院公报2021年第8号）,2020-12-14 公布，2021-02-01 施行,法规,04-130
+https://www.gov.cn/zhengce/2022-08/23/content_5722707.htm,非经营性互联网信息服务备案管理办法（中国政府网转载，2005 年版条文）,2005-02-08 公布（转载 2022-08-23）,法规,01-25
+https://www.gov.cn/zhengce/content/2020-06/29/content_5522593.htm,化妆品监督管理条例（国务院令第727号）,2020-06-16 公布，2021-01-01 施行,法规,02-95
+https://www.gov.cn/zhengce/content/2021-03/18/content_5593739.htm,医疗器械监督管理条例（国务院令第739号）,2021-03-18 公布，2021-06-01 施行,法规,02-83
+https://www.gov.cn/zhengce/content/202403/content_6940158.htm,中华人民共和国消费者权益保护法实施条例（国务院令第778号）,2024-03-15 公布，2024-07-01 施行,法规,02-34; 03-105; 04-60; 07-100
+https://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5447414.htm,海关总署公告2018年第194号（关于跨境电子商务零售进出口商品有关监管事宜的公告）,2018-12-10 发布，2019-01-01 施行,法规,02-112
+https://www.gov.cn/zhengce/zhengceku/2020-03/28/content_5496571.htm,海关总署关于跨境电子商务零售进口商品退货有关监管事宜的公告（海关总署公告2020年第45号）,2020-03-28，自发布之日起实施,法规,02-113
+https://www.gov.cn/zhengce/zhengceku/2020-11/03/content_5557118.htm,网络购买商品七日无理由退货暂行办法（2017 年原工商总局令第 90 号公布，2020 年市场监管总局令第 31 号修订；中国政府网）,2020-10-23 修订（2017-03-15 施行）,法规,04-108
+https://www.gov.cn/zhengce/zhengceku/2020-11/06/content_5557730.htm,规范促销行为暂行规定（国家市场监督管理总局令第 32 号；中国政府网）,2020-10-29 公布，2020-12-01 施行,法规,04-111; 09-75
+https://www.gov.cn/zhengce/zhengceku/2021-03/16/content_5593226.htm,网络交易监督管理办法（2021 年原文，国家市场监督管理总局令第37号，中国政府网）,2021-03-15 公布，2021-05-01 施行,法规,02-43; 09-98
+https://www.gov.cn/zhengce/zhengceku/2021-06/26/content_5620936.htm,关于降低小微企业和个体工商户支付手续费的通知（银发〔2021〕169 号）,2021-06-24,法规,03-47
+https://www.gov.cn/zhengce/zhengceku/2021-11/23/content_5652669.htm,海关总署令第253号（关于公布《中华人民共和国海关报关单位备案管理规定》的令，中国政府网）,2021-11-19 公布，2022-01-01 施行,法规,02-116
+https://www.gov.cn/zhengce/zhengceku/2022-02/21/content_5674854.htm,财政部等八部门关于调整跨境电子商务零售进口商品清单的公告（2022年第7号）,2022-01-28 成文，2022-03-01 起施行,法规,02-133
+https://www.haikou.gov.cn/xxgk/szfbjxxgk/zcfg/bmxzgfxwj/202204/t792806.shtml,网络商品和服务集中促销活动管理暂行规定（原国家工商总局令第 77 号；海口市人民政府网转载，页面标注“时效性：废止、失效”）,2015-09-02 公布，2015-10-01 施行；已失效，废止依据未查到,法规,04-102
+https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2023/art_920db564162e4312916a01bed6540ad8.html,工业和信息化部关于开展移动互联网应用程序备案工作的通知（工信部信管〔2023〕105号）,2023-08-04,法规,01-23
+https://www.mof.gov.cn/jrttts/202602/t20260203_3983175.htm,财政部 税务总局关于增值税法施行后增值税优惠政策衔接事项的公告（2026年第10号）,2026-01-31,法规,03-109
+https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202103/t20210323_3674407.htm,商务部等六部门关于扩大跨境电商零售进口试点、严格落实监管要求的通知（商财发〔2021〕39号，财政部网站）,2021-03-18 落款，2021-03-23 发布,法规,02-111
+https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2012/art_261a9209a5c9453e86969d641d2d0827.html,单用途商业预付卡管理办法（试行）（商务部令2012年第9号）,2012-09-21 公布，2012-11-01 施行,法规,03-134
+https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2026/art_769cdf8924364e359c387ba0fa1564d5.html,中华人民共和国海关进口食品境外生产企业注册管理规定（海关总署令第280号，商务部《中国对外经济贸易文告》刊载）,2025-10-14 公布，2026-06-01 施行,法规,02-147
+https://www.mofcom.gov.cn/zfxxgk/gkml/art/2018/art_1e2248ade45e4652a12c25d6a45e4f28.html,商务部 发展改革委 财政部 海关总署 税务总局 市场监管总局关于完善跨境电子商务零售进口监管有关工作的通知（商财发〔2018〕486号）,2018-11-28 发布，试点城市自 2019-01-01 起执行,法规,02-108
+https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/202101/t20210104_146524.html,国家市场监督管理总局关于废止部分规章的决定（废止目录第 7 项为《网络商品和服务集中促销活动管理暂行规定》；司法部网站刊载）,2020-07-13 发布，自公布之日起施行,法规,04-103
+https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202512/t20251217_1402474.html,互联网平台价格行为规则（发改价格规〔2025〕1607 号，国家发展改革委、市场监管总局、国家网信办；正文为页面附件 PDF）,2025-12-09 印发、2025-12-20 发布，2026-04-10 施行，有效期 5 年,法规,04-101; 09-78
+https://www.pbc.gov.cn/tiaofasi/144941/144953/5174993/index.html,非银行支付机构监督管理条例（国务院令第 768 号）,2023-12-09 公布，2024-05-01 施行,法规,03-34
+https://www.pbc.gov.cn/zhengwugongkai/attachDir/2025/11/2025111915174857578.pdf,非银行支付机构监督管理条例实施细则（中国人民银行令〔2024〕第4号）,2024-07-09 公布并施行,法规,03-142
+https://www.samr.gov.cn/cms_files/filemanager/samr/www/samrnew/samrgkml/nsjg/fgs/202209/W020220901560054930904.pdf,药品网络销售监督管理办法（国家市场监督管理总局令第58号，总局官网PDF）,2022-08-03 公布，2022-12-01 施行,法规,02-85
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_882e887d8ef24f67b9b039c16d8beb21.html,工业产品销售单位落实质量安全主体责任监督管理规定（国家市场监督管理总局令第76号）,2023-04-04 公布，2023-05-05 施行,法规,02-106
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_9e244785b9504a18b77147247a21e2bd.html,中华人民共和国认证认可条例（2023年第三次修订）,2023-07-20 修订,法规,02-103
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_cc0398e33f8d4e4fb591940fde346cea.html,中华人民共和国产品质量法（市场监管总局网站）,2018-12-29 修正,法规,02-146
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html,网络交易监督管理办法（2025年修正）,2021-03-15 公布，2025-03-18 修正,法规,02-31; 07-80; 09-101
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4edcff1e8d894890a012aac1e974c1ff.html,食品标识监督管理办法（国家市场监督管理总局令第100号）,2025-03-14 公布，2027-03-16 施行,法规,02-91
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_9adba18c25a84f24a6334c4c20b61e2f.html,网络食品销售经营者落实食品安全主体责任监督管理规定（国家市场监督管理总局令第124号）,2026-01-27 公布，2026-05-20 施行,法规,02-81
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/spcjs/art/2026/art_b0bcafe73bf747279b27cef39d04e6b1.html,市场监管总局 商务部关于进一步加强跨境电商零售进口食品召回监管的公告（2026年第1号）,2026-01-07 成文，2026-02-13 发布,法规,02-117
+https://xzfg.moj.gov.cn/front/law/detail?LawID=1756,互联网信息服务管理办法（国家行政法规库，2024-12-06 第二次修订）,2024-12-06,法规,01-24
+https://guangdong.chinatax.gov.cn/gdsw/zjfg/2011-02/23/content_25f6505d09764e69bba8e11ba85b7adf.shtml,国家税务总局关于折扣额抵减增值税应税销售额问题通知（国税函〔2010〕56号，广东省税务局政策法规库，注释为2026-09-01起全文废止）,2010-02-08 发布；2026-09-01 起全文废止,法规（已废止，用于核对废止状态）,03-102
+https://www.cac.gov.cn/2025-11/22/c_1765543463511624.htm,国家互联网信息办公室、公安部关于《大型网络平台个人信息保护规定（征求意见稿）》公开征求意见的通知,2025-11-22,法规（征求意见稿）,07-103
+https://www.cac.gov.cn/2026-01/10/c_1769603446094128.htm,互联网应用程序个人信息收集使用规定（征求意见稿）,2026-01-10,法规（征求意见稿）,07-90
+https://www.cac.gov.cn/2026-08/07/c_1787851071612596.htm,国家互联网信息办公室关于《大型个人信息处理者个人信息保护规定（征求意见稿）》公开征求意见的通知,2026-08-07,法规（征求意见稿）,07-104
+https://www.elawcn.com/rule/2019/1214/516.html,中国人民银行办公厅关于进一步加强无证经营支付业务整治工作的通知（银办发〔2017〕217 号）全文转载,2017-11-13 印发（转载页 2019-12-14）,法规（第三方转载）,03-35
+https://www.cac.gov.cn/2026-07/03/c_1784822399677167.htm,国家网信办关于《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见的通知,2026-07-03,法规（草案）,01-26
+https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=66255,支付机构预付卡业务管理办法（中国人民银行公告〔2012〕第12号；商务部全球法规网转载）,2012-09-27 公布，2012-11-01 施行,法规（转载）,03-130
+https://www.gov.cn/zhengce/202506/content_7029989.htm,食品标识监督管理办法（市场监管总局令第100号，中国政府网）,2025-03-14 公布，2027-03-16 施行,法规（部门规章）,04-80
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_a6723912cc224d1997467227469760ca.html,市场监督管理行政处罚程序规定（2022修正，市场监管总局网站）,2018-12-21 公布，2022-09-29 第二次修正,法规（部门规章）,04-63
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_7bcc7ff64200464daeb4b87ce450592f.html,合同行政监督管理办法（2025修正，市场监管总局网站）,2023-05-18 公布，2025-03-18 修正,法规（部门规章）,04-82
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_e4d03a20c0fd49769e408c7bf3791ff5.html,市场监督管理投诉举报处理办法（国家市场监督管理总局令第121号，市场监管总局官网；另用怀化市市场监管局、中国食品安全网全文核对）,2025-12-30 公布，2026-04-15 施行（原暂行办法同日废止）,法规（部门规章）,04-62
+https://www.hengqin.gov.cn/lab/flfg/bmgz/content/post_3909123.html,市场监督管理行政处罚信息公示规定（2025-11-21 总局令第108号第二次修正；横琴粤澳深度合作区网站转载）,2025-11-21,法规（部门规章，转载）,04-79
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194672/content.html,国家税务总局关于营改增试点若干征管问题的公告（2016年第53号，税务总局政策法规库）,2016-08-18,法规（部门规范性文件）,03-106
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194838/content.html,国家税务总局关于发布《个人所得税扣缴申报管理办法（试行）》的公告（2018年第61号）,2018-12-21 发布，2019-01-01 施行,法规（部门规范性文件）,03-110
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5236067/content.html,国家税务总局关于推广应用全面数字化电子发票的公告（2024年第11号）,2024-11-12 发布，2024-12-01 施行,法规（部门规范性文件）,03-95
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5241472/content.html,国家税务总局关于互联网平台企业为平台内从业人员办理扣缴申报、代办申报若干事项的公告（2025年第16号）,2025-06-26 发布，2025-10-01 施行,法规（部门规范性文件）,03-112
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5241477/content.html,国家税务总局关于互联网平台企业报送涉税信息有关事项的公告（2025年第15号）,2025-06-26,法规（部门规范性文件）,03-103
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5247426/content.html,国家税务总局关于起征点标准等增值税征管事项的公告（2026年第4号）,2026-01-30 发布，2026-01-01 起施行,法规（部门规范性文件）,03-116
+https://www.chinatax.gov.cn/chinatax/n810341/n810765/n3359382/201806/c3730094/content.html,国家税务总局关于发布《企业所得税税前扣除凭证管理办法》的公告（2018年第28号）,2018-06-06,法规（部门规范性文件）,03-115
+https://m.thepaper.cn/newsDetail_forward_33571804,进口食品未贴中文标签，是否适用食品安全法十倍赔偿？（泸水市人民法院，澎湃号·政务）,2026-07-12,法院普法案例,04-78
+https://bj3zy.bjcourt.gov.cn/article/detail/2018/03/id/3216727.shtml,【商事案例】虚假宣传不具误导性、不能使人陷入错误认识不构成欺诈（北京市第三中级人民法院网站；原页返回 403 未能打开，内容据检索摘要）,2018-03,法院案例（未直接核验）,04-72
+https://www.thepaper.cn/newsDetail_forward_9743739,投诉和举报究竟有什么区别？（中国工商出版社新媒体部，澎湃号·政务）,2020-10-28,监管系统媒体文章,04-81
+https://developers.weixin.qq.com/community/develop/article/doc/00062461834d105320744a3a66b013,常见问题第一期｜境外业务类目相关问题,2025-12-30 发布，03-17 最后编辑,社区“公告列表”置顶文章（作者为个人账号，没有“官方”标识；以境外主体类目为主，部分问答注明境内外通用；可读镜像 https://developers.weixin.qq.com/community/minihome/doc/00062461834d105320744a3a66b013）,02-11
+https://developers.weixin.qq.com/community/develop/doc/00000c4a5b05406c4809d156351800,微信开放社区：《电商平台服务协议》与交易规则等资质有没有参考格式？,2019-08-17 提问，2019-08-20 回复,社区回复（以“经核实”口吻，页面未显示身份标识）,02-71
+https://developers.weixin.qq.com/community/develop/doc/00066ed7f44b306372b975ed052000,微信开放社区：购买实体会员卡是否属于虚拟支付呢？,2020-01-06,社区回复（回答者身份未核实）,03-128
+https://developers.weixin.qq.com/community/develop/doc/000e069b87462008789b3eeb851c09,交易类小程序纠纷投诉能力处理指引（微信开放社区）,2021-01-22 发布，2024-03-22 更新（正文写 2024-03-25 之后发起的投诉单适用 48h）,社区帖（发帖账号署名“小程序交易保障”，个人昵称略；社区未标注为官方用户）,04-49
+https://developers.weixin.qq.com/community/develop/doc/000ea0277b4e48c4db29b4a8951c00,微信开放社区：电商平台资质存在模糊？是什么意思，是文件不清晰还是不规范？,2019-09-18,社区帖（用户说法）,02-74
+https://developers.weixin.qq.com/community/develop/doc/0004a6ce324c50e71cb7e35da51000,微信开放社区：关于申请小程序（电商平台）证件（ICP，EDI）区别确认,2018-11-20 提问；引用 2024-07-04 用户回复,社区帖（用户说法，未核实）,02-60
+https://developers.weixin.qq.com/community/develop/doc/00046ae58e0978d156b2cd5616b400,微信开放社区：只做微信小程序商城的情况下，是否需要办理EDI许可证呢？,2025-01-10,社区帖（用户转述工信部答复；“小程序运营专员”账号回复无实质意见；其余回复为第三方）,02-61
+https://developers.weixin.qq.com/community/develop/doc/000e427728004069ebf28e42a61400,微信开放社区：电商平台类目审核不通过？,2025-03-09,社区帖（用户转述驳回提示和湖南省通信管理局答复，未核实）,02-75
+https://developers.weixin.qq.com/community/develop/doc/0008428efe80b0d33ca1135f16b400,微信开放社区：为何小程序添加电商类目时，总是说我需要真实有效公章的协议等三个资料？,2024-06-06 提问，2024-06-07 回复,社区帖（驳回原文为用户转贴；回复以“经核实”口吻，页面未显示官方标识）,02-72
+https://developers.weixin.qq.com/community/develop/doc/000ac6ac880458872b843260c66409,【小程序-】常见问题汇总【2026-1-5~2026-1-11】（微信开放社区）,2026-01-12,社区汇总帖（发帖账号“智能回答”，社区标注为非官方用户）,04-51
+https://developers.weixin.qq.com/community/minigame/doc/000244a742026082d193b3f9761409,【小程序-交易保障保证金】常见问题汇总【2025-7-7~2025-7-13】（微信开放社区）,2025-07-14,社区汇总帖（发帖账号“智能回答”，非官方认证；正文 4 个问答都是 GMV 档保证金，没有“不需要跳转可不缴 10 万”这句话）,04-52
+https://developers.weixin.qq.com/community/minihome/doc/0004621049c8e0a188057e5b66bc00,微信开放社区：虚拟支付的界定？（储值卡买实物；唯一回复来自“智能回答”账号）,2026-04-28,社区自动回复（非官方口径）,03-125
+http://csres.com/detail/426948.html,GB/T 45574-2025 数据安全技术 敏感个人信息处理安全要求（标准信息）,2025-04-25 发布，2025-11-01 实施,第三方,07-92
+http://news.china.com.cn/2026-10/27/content_118750351.shtml,中消协等三部门联合发布“双十一”消费提示：明辨促销陷阱 守住真实惠（中国网转载中国消费者协会网站消息；三部门为中国消费者协会、中国市场监督管理学会、中国物品编码中心）,2026-10-26 发布，2026-10-27 转载,第三方,04-107
+http://paper.people.com.cn/rmrbhwb/pc/content/202511/15/content_30114968.html,人民日报海外版·读者桥：跨境电商零售进口商品如何征收税款（宁波海关关税处答疑）,2025-11-15,第三方,02-130
+http://www.mof.gov.cn/zhengwuxinxi/caijingshidian/gmrb/202202/t20220222_3789203.htm,跨境电商零售进口商品清单优化 增加滑雪用具等二十九项商品（光明日报，财政部网站转载）,2022-02-22,第三方,02-134
+https://bbs.youzan.com/thread-687498-1-1.html,产品公告｜「有赞放心购」赠送退货包运费活动调整通知（有赞社区）,2022-06-21 发布，2022-06-24 生效,第三方,04-137
+https://bbs.youzan.com/thread-698920-1-1.html,有赞论坛：《实物交易类小程序跳转规范》对有赞半屏商家的影响 Q&A,2025-02-22,第三方,05-61
+https://blog.csdn.net/Zhang314415/article/details/143997638,CSDN：小程序如何快速累计独立访客（UV）不低于500,2024 年前后（日期未知）,第三方,09-88
+https://cloud.tencent.com.cn/developer/news/2471848,小程序定制开发的费用与周期详解（腾讯云开发者社区转载）,2025-04-24,第三方,08-61
+https://cloud.tencent.com/document/product/1464/58566,腾讯云前端性能监控·小程序安装和初始化,2024-05-21,第三方,08-60
+https://developers.weixin.qq.com/community/develop/article/doc/0006c437da87b885b7900de966c013,微信开放社区：个人小程序认证流程（用户帖）,2023-11-09,第三方,01-63
+https://developers.weixin.qq.com/community/develop/article/doc/000e2818df0f982e90f99676a56c13,小程序审核被拒的情况汇总（开发者帖）,2020-02-28,第三方,08-59
+https://developers.weixin.qq.com/community/develop/doc/000080df2587e880f5ff29e2b5b400,开放社区《发货信息录入接口，一个订单有多个支付怎么办？》下楼主（社区用户）的自答（非官方用户）,2023-07-08 提问，2024-01-23 回复,第三方,04-92
+https://developers.weixin.qq.com/community/develop/doc/0008ccafe083488b6be068f9362000,实时日志看不到？开发管理没有运维中心菜单了（社区用户回复）,2024-01-08,第三方,08-66
+https://developers.weixin.qq.com/community/develop/doc/000c84844800d0addc34219996b800,微信开放社区：个体工商户小程序认证多少钱？是300吗？（用户问答）,2025-11-18,第三方,01-64
+https://feei.cn/gb-t-35273-2020/,GB/T 35273-2020《信息安全技术 个人信息安全规范》（第三方网站转载全文）,2020-03-06 发布，2020-10-01 实施,第三方,02-136
+https://feei.cn/gb-t-41391-2022/,GB/T 41391-2022 移动互联网应用程序（App）收集个人信息基本要求（标准信息）,2022-04-15 发布，2022-11-01 实施,第三方,07-93
+https://finance.sina.com.cn/tech/digi/2025-11-14/doc-infxirxe4569913.shtml,微信小程序官宣将在 iOS 端支持接入虚拟支付（新浪科技 / IT 之家）,2025-11-14,第三方,03-79
+https://finance.sina.com.cn/tech/roll/2024-08-13/doc-incinpwf8368949.shtml,新浪科技（亿邦动力）：重磅！视频号小店升级为微信小店,2024-08-13,第三方,05-73; 09-90
+https://finance.sina.com.cn/tech/roll/2024-10-24/doc-inctrpzf2782702.shtml,新浪科技：最新公告：微信小商店开始升级微信小店,2024-10-24,第三方,05-74
+https://finance.sina.com.cn/tech/roll/2024-12-05/doc-incymcmq9738888.shtml,新浪科技：微信上线推客分销,2024-12-05,第三方,09-92
+https://finance.sina.com.cn/tech/roll/2026-04-10/doc-inhtxyyq0527647.shtml,新浪科技（亿邦动力）：微信小店2026新商政策,2026-04-10,第三方,05-76
+https://finance.sina.com.cn/wm/2026-06-14/doc-inickrip0528286.shtml,商家正在关掉那个小标签（电商头条，新浪财经转载）,2026-06-14,第三方,04-140
+https://github.com/remaxjs/remax,GitHub 仓库元数据（NervJS/taro、didi/mpx、remaxjs/remax、wechat-miniprogram/weui-miniprogram、Tencent/tdesign-miniprogram、youzan/vant-weapp）,2026-11-02 查询,第三方,06-60
+https://haofly.net/blog/wechat-miniprogram-registration/,个人技术博客：微信小程序注册全流程实战记录（个体工商户主体）,2026-04-28,第三方,01-65
+https://help-static-aliyun-doc.aliyuncs.com/file-manage-files/zh-CN/20260119/rsxfld/%E5%B9%BF%E4%B8%9C%E5%A4%87%E6%A1%88%E7%9C%9F%E5%AE%9E%E6%80%A7%E6%89%BF%E8%AF%BA%E4%B9%A6-%E4%B8%AA%E4%BA%BA.pdf,阿里云文档附件《广东备案真实性承诺书-个人》（仅见搜索结果标题）,2026-01-19,第三方,01-70
+https://help.youzan.com/displaylist/detail_13_13-1-80537,有赞帮助中心：微信小店结算规则,2024-09-12,第三方,05-13
+https://help.youzan.com/displaylist/detail_4_4-1-301040,退货包运费服务费为什么每笔金额不同？（有赞帮助中心）,页面时间 2026-09-23,第三方,04-139
+https://help.youzan.com/displaylist/detail_4_4-1-87091,有赞帮助中心：微信小程序认证到期后有什么影响（仅见搜索摘要）,日期未知,第三方,01-68
+https://help.youzan.com/displaylist/detail_5_5-2-30081,退货包运费使用教程（有赞帮助中心）,页面时间 2026-09-23,第三方,04-138
+https://help.youzan.com/displaylist/detail_5_5-2-83907,微信小程序交易保障标灰度说明（有赞帮助中心）,约 2023,第三方,04-53
+https://m.thepaper.cn/baijiahao_15317988,我为群众办实事 · 直播回顾丨“尾款人”先收藏！法官教你防坑安心“剁手”（澎湃号·政务：北京互联网法院；来源人民法院报，含杭州互联网法院叶胜男法官答问）,2021-11-10,第三方,04-100
+https://news.bjd.com.cn/2022/11/14/10222769.shtml,“定金不退、价格欺诈、实物不符”付款前再想想“风险”（北京日报网“北京号”刊发海淀法院以案说法，含小刘诉小灰鸭公司定金案；北京政法网同文未能打开）,2022-11-14,第三方,04-98
+https://registry.npmjs.org/@tarojs/taro,npm 包注册表版本数据（@tarojs/taro、@dcloudio/uni-app、@mpxjs/core、miniprogram-ci）,2026-11-02 查询,第三方,06-59
+https://www.21jingji.com/article/20250127/herald/4e67ae0b24b244f5ef9b7ae26dc9d71c.html,"21经济网：春节前微信小店再迭代，""送礼物""功能打通群聊",2025-01-27,第三方,09-91
+https://www.bbthy.net/biz/15061.html,帮帮团转载：《微信小店商家技术服务费一览表》修订公示,2026-06,第三方,05-11
+https://www.bianews.com/news/details?id=151132,亿邦动力：6月30日起视频号橱窗不再用小程序自定义交易组件,2023-06,第三方,09-94
+https://www.cnblogs.com/AtlasLapetos/p/18668974,微信小程序平台运营规范（博客园转载旧版）,2025-02-18,第三方,08-58
+https://www.crmeb.com/ask/thread/33682,CRMEB 社区转载《关于小程序收集用户手机号行为的规范》,2023-08-10,第三方,07-15
+https://www.crmeb.com/ask/thread/37795,CRMEB 社区：微信小程序开启独立年审认证政策了,2023-11-16,第三方,01-66
+https://www.crmeb.com/ask/thread/64024,2025年1-3月小程序类目调整汇总公告（CRMEB社区转载，标注来源微信公众平台运营中心）,2025-04-24,第三方,02-38
+https://www.crmeb.com/news/detail/984,CRMEB 转载《关于小程序隐私保护指引设置的公告》,2023-08-15,第三方,07-32
+https://www.fkw.com/blog/1301222,凡科网：2026 年微信商城小程序多少钱,2026-07-07,第三方,05-42
+https://www.ithome.com/0/710/126.htm,IT之家：微信发布《小程序收集用户手机号行为规范》,2023-08-03,第三方,07-16
+https://www.ithome.com/1/008/327.htm,腾讯财付通降费让利政策再延一年至 2027 年 9 月 30 日（IT 之家）,2026-09-29,第三方,03-46
+https://www.ixunke.com/article/543,迅课科技：微信小程序认证调整，一次性认证转变为年审制度,约 2023-12,第三方,01-67
+https://www.ixunke.com/article/590,迅课：小程序直播插件停止接入,日期未知,第三方,09-89
+https://www.mpaypass.com.cn/news/202603/02164733.html,微信更新小程序虚拟支付业务管理规范（移动支付网，转载公告原文）,2026-03-02,第三方,03-78; 04-56; 08-79
+https://www.mpgcw.com/12470.html,微信小程序观察网：2026 微信小程序开发多少钱？,2026-09-16,第三方,05-41
+https://www.opp2.com/371012.html,青瓜传媒转载：《微信小店结算规则说明》,2025-07-16,第三方,05-12
+https://www.opp2.com/378443.html,青瓜传媒转载：微信小店2026年私域激励计划（1月-3月）,2026-01-12,第三方,05-75
+https://www.scea.co/policy/show/id/4109.html,上海跨境电子商务行业协会：关于跨境电商税收优惠政策解读（署名协会秘书处，来源天锦会计事务所；称 2026-01 限值上调，未给文号）,2026-06-26,第三方,02-132
+https://www.sohu.com/a/311942535_281893,“为什么小红书小程序能用虚拟支付，而我的不行？”（萤火新媒，搜狐号；含微信对小红书会员卡的回应）,2019-05-05,第三方,03-126
+https://www.tmtpost.com/8183962.html,钛媒体：小微灰度的第130天：小程序正在被拆成零件，交给微信的AI,2026-10,第三方,09-87
+https://www.jiemian.com/article/8435799.html,界面新闻：微信公众平台运营中心发布小程序类目调整公告,2022-11-22（报道 2022 年 10 月的类目调整）,第三方媒体快讯,02-39
+https://www.chinaiprlaw.cn/index.php?id=4792,最高人民法院办公厅对十二届全国人大五次会议第5990号建议的答复意见（法办函〔2017〕181号，知产法网全文转载）,2017-05-19,第三方转载,04-71
+https://www.crmeb.com/ask/thread/43693,2024年3月小程序类目调整汇总公告（CRMEB社区转载，标注来源微信公众平台运营中心）,2024-04-24,第三方转载,02-77
+https://www.cnblogs.com/AtlasLapetos/p/18670234,博客园转载的《交易类小程序运营规范》旧版文本,2025-02-19,第三方（仅作版本对照）,04-48
+https://hezongzy.com/edi,合纵致一：EDI许可证办理指南,页面标注最后更新 2026-10-25,第三方（代办机构）,02-67
+https://www.miibt.com/show-48-7511-1.html,中企百通：办理EDI经营许可证需要多长时间？费用如何？,2025-07-16,第三方（代办机构）,02-70
+https://mall.fkw.com/proFunc.html,凡科商城小程序报价,日期未知（2026-11-02 访问）,第三方（厂商价目）,05-31
+https://www.crmeb.com/ask/thread/71844,CRMEB 多商户系统（Java）商业版调价公告,2025-12-10,第三方（厂商公告）,05-35
+https://bbs.youzan.com/thread-669506-1-1.html,有赞零售连锁版订购及服务协议（2018 年版）,2018-04-28,第三方（厂商协议，旧版）,05-30
+https://help.youzan.com/displaylist/detail_0_4-2-40554,有赞帮助中心：有赞分销平台介绍,2025-08-22,第三方（厂商文档）,05-29
+https://help.youzan.com/displaylist/detail_4_4-2-2832,有赞帮助中心：微信小程序授权发布教程,2025-07-29,第三方（厂商文档）,05-23
+https://help.youzan.com/displaylist/detail_4_4-2-45542,有赞帮助中心：使用有赞微商城（原微商城单店）有哪些费用？,2025-10-29,第三方（厂商文档）,05-25
+https://help.youzan.com/displaylist/detail_5_5-1-41528,有赞帮助中心：2026年有赞云服务费的免费订单额度和收费规则是怎样的？,2026-03-19,第三方（厂商文档）,05-26
+https://help.youzan.com/displaylist/detail_5_5-2-28574,有赞帮助中心：微信小程序支付设置教程,2025-05-13,第三方（厂商文档）,05-24
+https://qiaotuoyun.com/h-nd-132923.html,乔拓云：乔拓云商城多少钱一年？各版本价格明细,2026-06-13,第三方（厂商文章）,05-32
+https://www.youzan.com/cms/article/467.html,有赞官网文章：有赞收费价格大概在什么标准？,2021-12-01,第三方（厂商文章）,05-27
+https://www.youzan.com/wenwen/questions/2660,有赞问答：有赞抽佣嘛？,2026-11-02,第三方（厂商问答）,05-28
+https://gitee.com/ZhongBangKeJi/CRMEB,CRMEB 开源商城系统 README（Gitee）,日期未知,第三方（厂商）,05-34
+https://gitee.com/gz-yami/mall4j,Mall4j README（Gitee）,日期未知,第三方（厂商）,05-39
+https://github.com/gongfuxiang/shopxo,ShopXO GitHub README,日期未知,第三方（厂商）,05-38
+https://shopxo.net/,ShopXO 官网,日期未知,第三方（厂商）,05-37
+https://store.crmeb.net/,CRMEB 官方商城价目,日期未知（疑为旧页）,第三方（厂商）,05-36
+https://developers.weixin.qq.com/community/minihome/doc/000aa2bd14cf308e7ea3a0f7d61c00,小程序平台体验分扣除无规则？且申诉驳回无理由（开放社区商家帖）,2025-07-22,第三方（商家自述；正文没有写具体扣分分值）,04-55
+https://developers.weixin.qq.com/community/develop/article/doc/0006ee611d0ef88202d31b9f666413,"微信开放社区文章：微信小程序电商平台类目所需的资质文件范本,仅供参考",2025-08-23,第三方（开发者分享）,02-73
+https://www.fangdalaw.com/content/print32_8710.html,方达律师事务所：TMT小视界｜第一期 增值电信业务开放政策十问十答,2025-02-13,第三方（律所文章）,02-59
+https://www.v2ex.com/t/1107118,微信要求实物交易小程序缴纳 10 万保证金（V2EX 帖）,2025-01,第三方（未能打开，依据搜索摘要）,04-57
+https://doc.dcloud.net.cn/uni-app-x/,uni-app x 介绍,日期未知,第三方（框架官方文档）,06-55
+https://github.com/NervJS/taro-docs/blob/master/docs/README.mdx,Taro 介绍（taro-docs 仓库 docs/README.mdx）,日期未知（仓库 2026-11-02 仍有提交）,第三方（框架官方文档）,06-49
+https://github.com/NervJS/taro-docs/blob/master/docs/complier-mode.mdx,Taro 半编译模式,日期未知,第三方（框架官方文档）,06-51
+https://github.com/NervJS/taro-docs/blob/master/docs/harmony/index.md,Taro 鸿蒙（初始化流程和结构介绍）,日期未知,第三方（框架官方文档）,06-53
+https://github.com/NervJS/taro-docs/blob/master/docs/optimized.mdx,Taro 小程序性能优化指南,日期未知,第三方（框架官方文档）,06-50
+https://github.com/NervJS/taro-docs/blob/master/docs/skyline.mdx,Taro Skyline,日期未知,第三方（框架官方文档）,06-52
+https://mpxjs.cn/,Mpx 官网,日期未知,第三方（框架官方文档）,06-57
+https://mpxjs.cn/guide/basic/intro.html,Mpx 介绍,日期未知,第三方（框架官方文档）,06-58
+https://uniapp.dcloud.io/tutorial/mp-weixin-ai-develop.html,uni-app 小程序 AI 开发模式接入指南,2026-07-10,第三方（框架官方文档）,06-56
+https://uniapp.dcloud.net.cn/,uni-app 官网首页,日期未知,第三方（框架官方文档）,06-54
+https://www.bscea.org/uploads/soft/261028/2026%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%BD%AF%E4%BB%B6%E8%A1%8C%E4%B8%9A%E5%9F%BA%E5%87%86%E6%95%B0%E6%8D%AE.pdf,北京软件造价评估技术创新联盟：2026 年中国软件行业基准数据（CSBMK®-202610）,2026-10-29,第三方（行业基准）,05-40
+https://cloud.tencent.com/document/product/1078/43317,腾讯云文档：小程序·云直播 如何申请“电商平台”类目,最近更新 2026-01-15,腾讯官方文档（非微信规则原文）,02-65
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/jls/art/2023/art_24015b958b234283ae089ee0ee426c0a.html,价格违法行为行政处罚规定（市场监管总局网站）,2010-12-04 第三次修订,行政法规,04-75
+https://www.cac.gov.cn/2019-12/27/c_1578986455686625.htm,App 违法违规收集使用个人信息行为认定方法（国信办秘字〔2019〕191 号）,2019-11-28 印发，网信办网站 2019-12-30 发布,规范性文件,07-78
+https://www.gov.cn/gongbao/2025/issue_12086/202506/content_7027004.html,国家药监局关于发布医疗器械网络销售质量管理规范的公告（2025年第46号，国务院公报2025年第16号）,2025-04-28 发布，2025-10-01 施行,规范性文件,02-96
+https://www.nmpa.gov.cn/xxgk/ggtg/qtggtg/20221130200847133.html,国家药监局关于发布药品网络销售禁止清单（第一版）的公告（2022年第111号）（只经检索摘要确认，原页未能打开）,2022-11-30 发布，2022-12-01 施行,规范性文件,02-97
+https://www.samr.gov.cn/ggjgs/tzgg/art/2023/art_183b5cb48d9e4f0dba67f9f912a913ba.html,市场监管总局关于发布《广告绝对化用语执法指南》的公告（2023年第6号）,2023-02-25,规范性文件,04-74
+https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/zfjcs/art/2023/art_a56f2982d6df4d759b1b548d07e3a839.html,市场监管总局关于印发《市场监督管理投诉信息公示暂行规则》的通知（国市监稽规〔2023〕6号）,2023-09-26 印发，2023-10-20 发布，自公布之日起施行,规范性文件,04-64
+https://www.baoshan.gov.cn/info/5615/3830854.htm,全国12315互联网平台在线消费纠纷解决企业管理暂行办法（保山市人民政府网转载，转载页未写制定机关）,2018-03-15 施行（转载页 2020-12-01）,规范性文件（转载）,04-65
+https://wap.miit.gov.cn/jgsj/xgj/wjfb/art/2023/art_dd783a581c9644a4aee10afa582811db.html,工业和信息化部关于开展移动互联网应用程序备案工作的通知（工信部信管〔2023〕105号）,2023-07-21 成文，2023-08-04 发布,部门规范性文件,02-63
